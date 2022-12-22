@@ -63,7 +63,7 @@ Total: 54 publications; 14 first author; 4 senior author
 Since 2017 (last 5 yrs): 41 publications; 9 first author; 3 senior author  
 
 `2022`.  
-**DOYLE SR**, Laing R, Bartley D, Morrison A, Holroyd N, Maitland K, Antonopoulos A, Chaudhry U, Flis I, Howell S, McIntyre J, Gilleard JS, Tait A, Mable BK, Kaplan R, Sargison N, Britton C, Berriman M, Devaney E, Cotton J (2022) [Genomic landscape of drug response reveals novel mediators of anthelmintic resistance]([https://www.biorxiv.org/content/10.1101/2021.11.12.465712v2](https://doi.org/10.1016/j.celrep.2022.111522)). Cell Reports.
+**DOYLE SR**, Laing R, Bartley D, Morrison A, Holroyd N, Maitland K, Antonopoulos A, Chaudhry U, Flis I, Howell S, McIntyre J, Gilleard JS, Tait A, Mable BK, Kaplan R, Sargison N, Britton C, Berriman M, Devaney E, Cotton J (2022) [Genomic landscape of drug response reveals novel mediators of anthelmintic resistance](https://doi.org/10.1016/j.celrep.2022.111522). Cell Reports.
 
 Sargison N, Chambers A, Chaudhry U, Júnior LC, **DOYLE SR**, Ehimiyein A, Evans M, Jennings A, Kelly R, Sargison F, Sinclair M, Zahid O [Faecal egg counts and nemabiome metabarcoding highlight the genomic complexity of equine cyathostomin communities and provide insight into their dynamics in a Scottish native pony herd](https://doi.org/10.1016/j.ijpara.2022.08.002).  Int. J Parasitol
 
@@ -71,7 +71,7 @@ Roura A, **DOYLE SR**, Castro-Bugallo A, Gonzalez AF, Strugnell JM. [Trophic eco
 
 **DOYLE SR** (2022) [Improving helminth genome resources in the post-genomic era](https://doi.org/10.1016/j.pt.2022.06.002). Trends in Parasitology
 
-**DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2022) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1101/2021.10.21.464505). Nature Communications
+**DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2022) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1038/s41467-022-31487-x). Nature Communications
 
 Gandasegui J, Onwuchekwa C, Krolewiecki AJ, **DOYLE SR**, Pullan RL, Enbiale W, Kepha S, Hatherell HA, van Lieshout L, Cambra-Pellejà M, Escola V, Muñoz J (2022) [Ivermectin and albendazole coadministration: opportunities for strongyloidiasis control](https://doi.org/10.1016/S1473-3099(22)00369-3). The Lancet Infectious Diseases
 
