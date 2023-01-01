@@ -60,7 +60,7 @@ La Trobe University, Australia
 
 ## Publications  
 Total: 54 publications; 14 first author; 4 senior author  
-Since 2017 (last 5 yrs): 41 publications; 9 first author; 3 senior author  
+Since 2018 (last 5 yrs): 36 publications; 8 first author; 3 senior author  
 
 `2022`.  
 **DOYLE SR**, Laing R, Bartley D, Morrison A, Holroyd N, Maitland K, Antonopoulos A, Chaudhry U, Flis I, Howell S, McIntyre J, Gilleard JS, Tait A, Mable BK, Kaplan R, Sargison N, Britton C, Berriman M, Devaney E, Cotton J (2022) [Genomic landscape of drug response reveals novel mediators of anthelmintic resistance](https://doi.org/10.1016/j.celrep.2022.111522). Cell Reports.
@@ -225,7 +225,8 @@ Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elega
 
 
 ## Presentations  
-### Departmental/Invited Talks  
+### Departmental/Invited Talks
+
 `2021`
 Helminth Bioinformatics, Accra, Ghana (virtual)
 
