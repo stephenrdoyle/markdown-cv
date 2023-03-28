@@ -59,10 +59,17 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 54 publications; 14 first author; 4 senior author  
-Since 2018 (last 5 yrs): 36 publications; 8 first author; 3 senior author  
+Total: 56 publications; 14 first author; 4 senior author  
+Since 2018 (last 5 yrs): 38 publications; 8 first author; 3 senior author  
 
-`2022`.  
+
+`2023`
+Teresa Attenborough T, Rawlinson KA, Diaz Soria CL, Ambridge K, Sankaranarayanan G, Graham J, **DOYLE SR**, Rinaldi G, Berriman M (2023) [A single-cell atlas of the free-living miracidium larva of *Schistosoma mansoni*](https://doi.org/10.1101/2023.03.27.533868). BioRxiv 
+
+Papaiakovou M, Fraija-Fernández N, James K, Briscoe AG, Hall A, Jenkins TP, Dunn J, Levecke B, Mekonnen Z, Cools P, **DOYLE SR**, Cantacessi C, Littlewood DTJ (2023) [Evaluation of genome skimming to detect and characterise human and livestock helminths](https://doi.org/10.1016/j.ijpara.2022.12.002) International Journal for Parasitology
+
+
+`2022`  
 **DOYLE SR**, Laing R, Bartley D, Morrison A, Holroyd N, Maitland K, Antonopoulos A, Chaudhry U, Flis I, Howell S, McIntyre J, Gilleard JS, Tait A, Mable BK, Kaplan R, Sargison N, Britton C, Berriman M, Devaney E, Cotton J (2022) [Genomic landscape of drug response reveals novel mediators of anthelmintic resistance](https://doi.org/10.1016/j.celrep.2022.111522). Cell Reports.
 
 Sargison N, Chambers A, Chaudhry U, Júnior LC, **DOYLE SR**, Ehimiyein A, Evans M, Jennings A, Kelly R, Sargison F, Sinclair M, Zahid O [Faecal egg counts and nemabiome metabarcoding highlight the genomic complexity of equine cyathostomin communities and provide insight into their dynamics in a Scottish native pony herd](https://doi.org/10.1016/j.ijpara.2022.08.002).  Int. J Parasitol
