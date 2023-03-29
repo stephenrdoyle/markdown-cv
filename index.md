@@ -177,15 +177,15 @@ Since 2018 (last 5 yrs): 38 publications; 8 first author; 3 senior author
 
 `2013`  
 5. **DOYLE SR**, Kasinadhuni NRP, Chan CK, Grant WN (2013) [Evidence of evolutionary constraints on the sequence composition of mitochondrial matrix targeting sequences](https://doi.org/10.1371/journal.pone.0067938). PLoS One.  
-
+  
 `2011`  
 4. **DOYLE SR**, Chan CK, and Grant WN (2011) [Enhanced annealing of mismatched oligonucleotides using a novel melting curve assay allows efficient in vitro discrimination and restriction of a single nucleotide polymorphism](https://doi.org/10.1186/1472-6750-11-83). BMC Biotechnology.  
-
+  
 3. Chan CK, Hart AH, Lister AN, **DOYLE SR** (2011) [Learning styles of 3rd year genetics students and their affection and perception of effectiveness of a range of instructional modes]. ACSME Proceedings 2011 Teaching for Diversity Challenges and Strategies.  
-
+  
 `2008`  
 2. **DOYLE SR** and Chan CK (2008) [Mitochondrial gene therapy an evaluation of strategies for the treatment of mitochondrial DNA disorders](https://doi.org/10.1089/hum.2008.090). Hum Gene Ther. Figure 2 was selected as the cover artwork for the print issue.  
-
+  
 `2007`  
 1. **DOYLE SR** and Chan CK, (2007). [Differential intracellular distribution of DNA complexed with polyethylenimine PEI and PEI-polyarginine PTD influences exogenous gene expression within live COS-7 cells](https://doi.org/10.1186/1479-0556-5-11). Genet Vaccines Ther.  
 
