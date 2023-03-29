@@ -171,9 +171,9 @@ Since 2018 (last 5 yrs): 38 publications; 8 first author; 3 senior author
 8. Wong NC, Pope BJ, Candiloro I, Korbie D., Trau M, Wong SQ, Mikeska T, Van Denderen BJW, Thompson EW, Eggers S, **DOYLE SR**, Dobrovic A. (2016) [MethPat: a tool for the analysis and visualisation of complex methylation patterns obtained by massively parallel sequencing](https://doi.org/10.1186/s12859-016-0950-8). BMC Bioinformatics.
 
 `2015`
-7. Wong NC, Pope BJ, Candiloro I, Korbie D, Trau M, Wong SQ, Mikeska T, Van Denderen BJW, Thompson EW, Eggers S, **DOYLE SR**, Dobrovic A (2015) [Exemplary multiplex bisulfite amplicon data used to demonstrate the utility of Methpat](https://doi.org/10.1186/s13742-015-0098-x). GigaScience.
+7. Wong NC, Pope BJ, Candiloro I, Korbie D, Trau M, Wong SQ, Mikeska T, Van Denderen BJW, Thompson EW, Eggers S, **DOYLE SR**, Dobrovic A (2015) [Exemplary multiplex bisulfite amplicon data used to demonstrate the utility of Methpat](https://doi.org/10.1186/s13742-015-0098-x). GigaScience.  
 
-6. **DOYLE SR**, Griffiths IS, Murphy NP, Strugnell JM (2015) [Low-coverage MiSeq next generation sequencing reveals the mitochondrial genome of the Eastern Rock Lobster, *Sagmariasus verreauxi*](https://doi.org/10.3109/19401736.2013.855921). Mitochondrial DNA.
+6. **DOYLE SR**, Griffiths IS, Murphy NP, Strugnell JM (2015) [Low-coverage MiSeq next generation sequencing reveals the mitochondrial genome of the Eastern Rock Lobster, *Sagmariasus verreauxi*](https://doi.org/10.3109/19401736.2013.855921). Mitochondrial DNA.  
 
 `2013`
 5. **DOYLE SR**, Kasinadhuni NRP, Chan CK, Grant WN (2013) [Evidence of evolutionary constraints on the sequence composition of mitochondrial matrix targeting sequences](https://doi.org/10.1371/journal.pone.0067938). PLoS One.  
