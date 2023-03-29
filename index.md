@@ -63,8 +63,8 @@ Total: 56 publications; 14 first author; 4 senior author
 Since 2018 (last 5 yrs): 38 publications; 8 first author; 3 senior author  
 
 
-`2023`
-56. Teresa Attenborough T, Rawlinson KA, Diaz Soria CL, Ambridge K, Sankaranarayanan G, Graham J, **DOYLE SR**, Rinaldi G, Berriman M (2023) [A single-cell atlas of the free-living miracidium larva of *Schistosoma mansoni*](https://doi.org/10.1101/2023.03.27.533868). BioRxiv 
+`2023`  
+56. Attenborough T, Rawlinson KA, Diaz Soria CL, Ambridge K, Sankaranarayanan G, Graham J, **DOYLE SR**, Rinaldi G, Berriman M (2023) [A single-cell atlas of the free-living miracidium larva of *Schistosoma mansoni*](https://doi.org/10.1101/2023.03.27.533868). BioRxiv 
 
 55. Papaiakovou M, Fraija-Fernández N, James K, Briscoe AG, Hall A, Jenkins TP, Dunn J, Levecke B, Mekonnen Z, Cools P, **DOYLE SR**, Cantacessi C, Littlewood DTJ (2023) [Evaluation of genome skimming to detect and characterise human and livestock helminths](https://doi.org/10.1016/j.ijpara.2022.12.002). International Journal for Parasitology
 
@@ -98,14 +98,14 @@ Since 2018 (last 5 yrs): 38 publications; 8 first author; 3 senior author
 
 41. Morrison AA, Chaudhry U, Andrews L, Melville L, **DOYLE SR**, Sargison ND, Bartley DJ (2022) [Phenotypic and genotypic analysis of benzimidazole resistance in reciprocal genetic crosses of *Haemonchus contortus*](https://doi.org/10.1016/j.ijpddr.2021.11.001). Int. J Parasitol-DDR 
 
-`2021`
+`2021`  
 40. McCann K, Grant W, **DOYLE SR** (2021) [The genome sequence of the Australian filarial nematode, *Cercopithifilaria johnstoni*](https://doi.org/10.12688/wellcomeopenres.17258.1 ). Wellcome Open Research.  
 
 39. Buddenborg SK, Tracey A, Berger DJ, Lu Z, **DOYLE SR**, Fu B, Yang F, Reid AJ, Rodgers FH, Rinaldi G, Sankaranarayanan G, Bohme U, Holroyd N, Berriman M (2021) [Assembled chromosomes of the blood fluke *Schistosoma mansoni* provide insight into the evolution of its ZW sex-determination system](https://doi.org/10.1101/2021.08.13.456314). bioRxiv.  
 
 38. McLay TGB, Ladiges PY, **DOYLE SR**, Bayly MJ. (2021) [Phylogeographic patterns of the sclerophyllous Australian grass tree (*Xanthorrhoea Sm. Asphodelaceae*) revealed using targeted amplicon sequencing](). Australian Systematic Botany 34, 206-225  
 
-`2020`
+`2020`  
 37. Kotze AC, Gilleard JS, **DOYLE SR**, Prichard RK. (2020) [Challenges and opportunities for the adoption of molecular diagnostics for anthelmintic resistance](https://doi.org/10.1016/j.ijpddr.2020.11.005 ). Int. J Parasitol-DDR  
 
 36. **DOYLE SR**, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Chaudhry U, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Shabbir MZ, Sankaranarayanan G, Wit J, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA. (2020) [Genomic and transcriptomic variation defines the chromosome-scale assembly of *Haemonchus contortus*, a model gastrointestinal worm.](https://doi.org/10.1038/s42003-020-01377-3) Communications Biology.  [Behind the Paper](https://ecoevocommunity.nature.com/posts/a-chromosome-wide-view-of-an-exceptionally-diverse-helminth)
@@ -116,7 +116,7 @@ Since 2018 (last 5 yrs): 38 publications; 8 first author; 3 senior author
 
 33. Olson PD, Tracey A, Bailie A, James K, Rodgers FH, **DOYLE SR**, Buddenborg S, Holroyd N, Berriman M. (2020) [Complete representation of a tapeworm genome reveals chromosomes capped by centromeres, necessitating a dual role in segregation and protection](https://doi.org/10.1186/s12915-020-00899-w). BMC Biology.  
 
-`2019`
+`2019`  
 32. Parisi K, **DOYLE SR**, Lee E, Lowe R, Weerden NVD, Anderson M, Bleackley M. (2019) [Screening the *Saccharomyces cerevisiae* non-essential gene deletion library reveals diverse mechanisms of action for antifungal plant defensins](https://doi.org/10.1128/AAC.01097-19). Antimicrobial Agents and Chemotherapy.  
 
 31. Sallé G, **DOYLE SR**, Cortet J, Cabaret J, Berriman M, Holroyd N, Cotton JA (2019) [The global diversity of Haemonchus contortus is shaped by human intervention and climate](https://doi.org/10.1038/s41467-019-12695-4). Nature Communications. [Nat Micro Blog](https://go.nature.com/35VNdpt)  
@@ -135,7 +135,7 @@ Since 2018 (last 5 yrs): 38 publications; 8 first author; 3 senior author
 
 24. Crawford KE, Hedtke SM, **DOYLE SR**, Kuesel AC, Armoo S, Osei-Atweneboana MY, Grant WN (2019) [Utility of the Onchocerca volvulus mitochondrial genome for delineation of parasite transmission zones](https://doi.org/10.1101/732446 ). BioRxiv.
 
-`2018`
+`2018`  
 23. Armoo S, **DOYLE SR**, Hedtke SM, Adjami GA, Boakye DA, Kuesel AC, Osei-Atwnenboana MY, Grant WN. (2018) [Reduced variation in Wolbachia density of larval stages in comparison with adults of Onchocerca volvulus: implications for clinical outcome of infection?](https://doi.org/10.1101/458034 ) BioRxiv.
 
 22. International Helminth Genomes Consortium. (2018) [Comparative genomics of the major parasitic worms](https://doi.org/10.1038/s41588-018-0262-1). Nature Genetics.
@@ -146,7 +146,7 @@ Since 2018 (last 5 yrs): 38 publications; 8 first author; 3 senior author
 
 19. **DOYLE SR**, Laing R, Bartley DJ, Britton C, Chaudhry U, Gilleard JS, Holroyd N, Mable BK, Maitland K, Morrison AA, Tait A, Tracey A, Berriman M, Devaney E, Cotton JA, Sargison ND. (2018) [A genome resequencing-based genetic map reveals the recombination landscape of an outbred parasitic nematode in the presence of polyploidy and polyandry](https://doi.org/10.1093/gbe/evx269). Genome Biology and Evolution.
 
-`2017`
+`2017`  
 18. **DOYLE SR**, Bourguinat C, Nana-Djeunga HC, Kengne-Ouafo JA, Pion SDS, Bopda J, Kamgno J, Wanji S, Che H, Kuesel AC, Walker M, Basanez M-G, Boakye DA, Osei-Atweneboana MY, Boussinesq M, Prichard RK, Grant WN. (2017) [Genome-wide analysis of ivermectin response by Onchocerca volvulus reveals genetic drift and soft selective sweeps contribute to loss of drug sensitivity](https://doi.org/10.1371/journal.pntd.0005816). PLoS NTD.
 
 17. Juma AR, Sahota A, Grommen SVH, O’Connor AE, Merriner DJ, Hu J, Hall NE, **DOYLE SR**, Damdimopoulos AE, Damdimopoulou PE, Barriga D, Hart AH, Van De Ven WJM, O’Bryan MK, De Groef B. (2017) [PLAG1 deficiency impairs spermatogenesis in mice](https://doi.org/10.1038/s41598-017-05676-4). Scientific Reports.
@@ -170,23 +170,23 @@ Since 2018 (last 5 yrs): 38 publications; 8 first author; 3 senior author
 
 8. Wong NC, Pope BJ, Candiloro I, Korbie D., Trau M, Wong SQ, Mikeska T, Van Denderen BJW, Thompson EW, Eggers S, **DOYLE SR**, Dobrovic A. (2016) [MethPat: a tool for the analysis and visualisation of complex methylation patterns obtained by massively parallel sequencing](https://doi.org/10.1186/s12859-016-0950-8). BMC Bioinformatics.
 
-`2015`
+`2015`  
 7. Wong NC, Pope BJ, Candiloro I, Korbie D, Trau M, Wong SQ, Mikeska T, Van Denderen BJW, Thompson EW, Eggers S, **DOYLE SR**, Dobrovic A (2015) [Exemplary multiplex bisulfite amplicon data used to demonstrate the utility of Methpat](https://doi.org/10.1186/s13742-015-0098-x). GigaScience.  
 
 6. **DOYLE SR**, Griffiths IS, Murphy NP, Strugnell JM (2015) [Low-coverage MiSeq next generation sequencing reveals the mitochondrial genome of the Eastern Rock Lobster, *Sagmariasus verreauxi*](https://doi.org/10.3109/19401736.2013.855921). Mitochondrial DNA.  
 
-`2013`
+`2013`  
 5. **DOYLE SR**, Kasinadhuni NRP, Chan CK, Grant WN (2013) [Evidence of evolutionary constraints on the sequence composition of mitochondrial matrix targeting sequences](https://doi.org/10.1371/journal.pone.0067938). PLoS One.  
 
-`2011`
+`2011`  
 4. **DOYLE SR**, Chan CK, and Grant WN (2011) [Enhanced annealing of mismatched oligonucleotides using a novel melting curve assay allows efficient in vitro discrimination and restriction of a single nucleotide polymorphism](https://doi.org/10.1186/1472-6750-11-83). BMC Biotechnology.  
 
 3. Chan CK, Hart AH, Lister AN, **DOYLE SR** (2011) [Learning styles of 3rd year genetics students and their affection and perception of effectiveness of a range of instructional modes]. ACSME Proceedings 2011 Teaching for Diversity Challenges and Strategies.  
 
-`2008`
+`2008`  
 2. **DOYLE SR** and Chan CK (2008) [Mitochondrial gene therapy an evaluation of strategies for the treatment of mitochondrial DNA disorders](https://doi.org/10.1089/hum.2008.090). Hum Gene Ther. Figure 2 was selected as the cover artwork for the print issue.  
 
-`2007`
+`2007`  
 1. **DOYLE SR** and Chan CK, (2007). [Differential intracellular distribution of DNA complexed with polyethylenimine PEI and PEI-polyarginine PTD influences exogenous gene expression within live COS-7 cells](https://doi.org/10.1186/1479-0556-5-11). Genet Vaccines Ther.  
 
 
