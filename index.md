@@ -59,8 +59,8 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 56 publications; 14 first author; 4 senior author  
-Since 2018 (last 5 yrs): 38 publications; 8 first author; 3 senior author  
+Total: 59 publications; 14 first author; 5 senior author  
+Since 2018 (last 5 yrs): 39 publications; 7 first author; 4 senior author  
 
 
 `2023`
@@ -149,7 +149,12 @@ Since 2018 (last 5 yrs): 38 publications; 8 first author; 3 senior author
 
 
 ## Research Support
-Total: ~£2.14 M GBP
+Total: ~£5.14 M GBP
+
+`2023`
+**EDCTP** . Role: Co-Investigator. Amount: €3,553,000 (€369,000 to SRD/WSI).
+Title: "STOP 2030: Towards the interruption of transmission of soil-transmitted helminths: Promoting implementation of research results of a fixed-dose combination of co-formulated ivermectin and albendazole".
+
 
 `2020`
 **UKRI Future Leaders Fellowship**. Role: Principal Investigator. Amount: £1.3 M GBP / 4 yrs  
