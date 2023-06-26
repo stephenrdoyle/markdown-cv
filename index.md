@@ -64,6 +64,7 @@ Since 2018 (last 5 yrs): 38 publications; 8 first author; 3 senior author
 
 
 `2023`
+- Gandasegui J, Power RI, Curry E, Lau DC-W, O’Neill CM, Wolstenholme A, Prichard R, Šlapeta J, **DOYLE SR** (2023) [Genome structure and population genomics of the canine heartworm Dirofilaria immitis](https://doi.org/10.1101/2023.04.25.538225). BioRxiv.
 - Attenborough T, Rawlinson KA, Diaz Soria CL, Ambridge K, Sankaranarayanan G, Graham J, **DOYLE SR**, Rinaldi G, Berriman M (2023) [A single-cell atlas of the free-living miracidium larva of *Schistosoma mansoni*](https://doi.org/10.1101/2023.03.27.533868). BioRxiv.  
 - Papaiakovou M, Fraija-Fernández N, James K, Briscoe AG, Hall A, Jenkins TP, Dunn J, Levecke B, Mekonnen Z, Cools P, **DOYLE SR**, Cantacessi C, Littlewood DTJ (2023) [Evaluation of genome skimming to detect and characterise human and livestock helminths](https://doi.org/10.1016/j.ijpara.2022.12.002). International Journal for Parasitology. Cover art selected for this issue.  
 
