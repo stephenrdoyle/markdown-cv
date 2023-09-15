@@ -280,14 +280,14 @@ Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elega
 ## Professional Associations and Contributions
 ### Associate Editor
 `2023 - ongoing`
-International Journal for Parasitology  
+- International Journal for Parasitology  
 `2021 - 2023`
-Parasites and Vectors (Parasite genetics, genomics and proteomics section)
+- Parasites and Vectors (Parasite genetics, genomics and proteomics section)
 
 
 ### Review Editor
 `2021 - now`
-Editorial Board of Neglected Tropical Diseases (speciality section of Frontiers in Tropical Diseases)
+- Editorial Board of Neglected Tropical Diseases (speciality section of Frontiers in Tropical Diseases)
 
 ### Journal Referee
 Bioinformatics, Bioinformatics Advances, BMC Biotechnology, Frontiers Tropical Diseases, Genes, Genome Biology and Evolution, Genomics, GigaScience, International Journal of Parasitology, International Journal of Parasitology Drugs and Drug Resistance, Mitochondrial DNA Part B: Resources, Molecular Ecology Resources, Nature Communications, Nucleic Acid Research, Parasitology International, Parasites & Vectors, Parasitology Research, Pathogens, PLoS Neglected Tropical Diseases, PLoS One, PLoS Pathogens, Scientific Reports, Trends in Parasitology.
@@ -297,7 +297,7 @@ Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and 
 
 ### PhD thesis Referee
 `2023`  
-James Cook University, Australia  
+- James Cook University, Australia  
 
 ## Teaching Experience
 ### Undergraduate
