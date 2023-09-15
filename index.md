@@ -273,9 +273,8 @@ Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elega
 
 ## Outreach / media
 `2021`  
-Podcast - [Two Brad for You - In Conversation 21 - Sharing Genomes and More with Stephen Doyle](https://podcasts.apple.com/gb/podcast/tbfy-in-conversation-21-sharing-genomes-and-more/id1268436621?i=1000517725731)  
-
-Promotional - [Meet some of our Postdocs working at Wellcome Sanger Institute](https://www.youtube.com/watch?v=1-vxm2nBmFA)  
+- Podcast - [Two Brad for You - In Conversation 21 - Sharing Genomes and More with Stephen Doyle](https://podcasts.apple.com/gb/podcast/tbfy-in-conversation-21-sharing-genomes-and-more/id1268436621?i=1000517725731)  
+- Promotional - [Meet some of our Postdocs working at Wellcome Sanger Institute](https://www.youtube.com/watch?v=1-vxm2nBmFA)  
 
 
 ## Professional Associations and Contributions
@@ -297,7 +296,8 @@ Bioinformatics, Bioinformatics Advances, BMC Biotechnology, Frontiers Tropical D
 Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and development), BBSRC, NERC, MRC, UKRI  
 
 ### PhD thesis Referee
-- 2023 - James Cook University, Australia
+`2023`  
+James Cook University, Australia  
 
 ## Teaching Experience
 ### Undergraduate
