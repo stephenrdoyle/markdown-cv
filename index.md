@@ -64,7 +64,7 @@ Since 2018 (last 5 yrs): 39 publications; 7 first author; 4 senior author
 
 
 `2023`
-- Gandasegui J, Power RI, Curry E, Lau DC-W, O’Neill CM, Wolstenholme A, Prichard R, Šlapeta J, **DOYLE SR** (2023) [Genome structure and population genomics of the canine heartworm *Dirofilaria immitis*](https://doi.org/10.1101/2023.04.25.538225). International Journal for Parasitology. 
+- Gandasegui J, Power RI, Curry E, Lau DC-W, O’Neill CM, Wolstenholme A, Prichard R, Šlapeta J, **DOYLE SR** (2023) [Genome structure and population genomics of the canine heartworm *Dirofilaria immitis*](https://doi.org/10.1016/j.ijpara.2023.07.006). International Journal for Parasitology. 
 - Buddenborg SK, Lu Z, Sankaranarayanan G, **DOYLE SR**, Berriman M. [The stage-and sex-specific transcriptome of the human parasite *Schistosoma mansoni*](https://doi.org/10.1101/2023.05.02.539039). BioRxiv. [Data exploration tool of Schisto lifecycle](https://lifecycle.schisto.xyz/)  
 - Roura A, **DOYLE SR**, Castro-Bugallo A, Gonzalez AF, Strugnell JM. [Trophic ecology of Octopus vulgaris paralarvae along the Iberian Canary current eastern boundary upwelling system](https://doi.org/10.1038/s41598-023-35206-4). Scientific Reports.   
 - Attenborough T, Rawlinson KA, Diaz Soria CL, Ambridge K, Sankaranarayanan G, Graham J, **DOYLE SR**, Rinaldi G, Berriman M (2023) [A single-cell atlas of the free-living miracidium larva of *Schistosoma mansoni*](https://doi.org/10.1101/2023.03.27.533868). BioRxiv.  
@@ -153,8 +153,10 @@ Since 2018 (last 5 yrs): 39 publications; 7 first author; 4 senior author
 Total: ~£5.14 M GBP
 
 `2023`
-**EDCTP** . Role: Co-Investigator. Amount: €3,553,000 (€369,000 to SRD/WSI).
-Title: "STOP 2030: Towards the interruption of transmission of soil-transmitted helminths: Promoting implementation of research results of a fixed-dose combination of co-formulated ivermectin and albendazole".
+- **EDCTP** . Role: Co-Investigator. Amount: €3,553,000 (€369,000 to SRD/WSI).  
+Title: "STOP 2030: Towards the interruption of transmission of soil-transmitted helminths: Promoting implementation of research results of a fixed-dose combination of co-formulated ivermectin and albendazole".  
+- **Sanger Excellence Fellowship**. To support postdoctoral fellow, Mona Suleiman, for 3 yrs. Role: Principal Investigator.  
+Title: "Experimental evolution in the parasitic worm Strongyloides to map ivermectin drug resistance in the lab and field"
 
 
 `2020`  
@@ -196,96 +198,84 @@ Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elega
 
 ## Presentations  
 ### Departmental/Invited Talks
-`2023`  
-NTD Day, York Biomedical Institute, UK
-
-Nematode Functional Genomics meeting, University of Glasgow, UK
+`2023`
+- ZAPwoms, USA (virtual)  
+- NTD Day, York Biomedical Institute, UK  
+-  Nematode Functional Genomics meeting, University of Glasgow, UK
 
 `2022`  
-British Association for Veterinary Parasitology (virtual)
-
-Molecular Helminthology: An Integrated Approach
+- British Association for Veterinary Parasitology (virtual)  
+- Molecular Helminthology: An Integrated Approach  
 
 `2021`
-Helminth Bioinformatics, Accra, Ghana (virtual)
-
-Berlin Parasitology Seminar series (virtual)  
-
-Barcelona Institute for Global Health (virtual)
+- Helminth Bioinformatics, Accra, Ghana (virtual)   
+- Berlin Parasitology Seminar series (virtual)    
+- Barcelona Institute for Global Health (virtual)  
 
 `2020`
-Department of Infectious Diseases, University of Georgia, USA (virtual)
-
-Host-Parasite Interactions Seminar Series, University of Calgary, Canada (virtual)
+- Department of Infectious Diseases, University of Georgia, USA (virtual)  
+- Host-Parasite Interactions Seminar Series, University of Calgary, Canada (virtual)  
 
 `2019`
-London School of Hygiene & Tropical Medicine, London, UK
-
-Institute of Biodiversity, Animal Health and Comparative Medicine, University of Glasgow, Scotland, UK
-
-Consortium for Anthelmintic and Susceptibility (CARS), Madison, USA
+- London School of Hygiene & Tropical Medicine, London, UK  
+- Institute of Biodiversity, Animal Health and Comparative Medicine, University of Glasgow, Scotland, UK  
+- Consortium for Anthelmintic and Susceptibility (CARS), Madison, USA  
 
 `2018`
-Genetic diversity of NTD Pathogens, Natural History Museum, London, UK
+- Genetic diversity of NTD Pathogens, Natural History Museum, London, UK  
+
 `2017`
-Innovative tools for NTD research: Exploiting genomics, RVC, London, UK.
-
-DIDE Seminar Series, Imperial College London, UK
-
-La Trobe University, Melbourne, Australia
+- Innovative tools for NTD research: Exploiting genomics, RVC, London, UK.  
+- DIDE Seminar Series, Imperial College London, UK  
+- La Trobe University, Melbourne, Australia  
 
 `2012`
-Institute of Parasitology, McGill University, Montreal, Canada
+- Institute of Parasitology, McGill University, Montreal, Canada  
 
 `2011`
-Thomson Reuters System Biology Seminar Series Winter 2011, La Trobe University
-
-VLSCI NGS Informatics Retreat, Brighton, Australia
+- Thomson Reuters System Biology Seminar Series Winter 2011, La Trobe University  
+- VLSCI NGS Informatics Retreat, Brighton, Australia  
 
 ### Conference talks / posters
+`2023`
+- Parasitic Helminths: New Perspectives in Biology and Infection, Hydra, Greece  
+
 `2022`
-British Association for Veterinary Parasitology (Invited Panel Member for ECR Careers session)
+- British Association for Veterinary Parasitology (Invited Panel Member for ECR Careers session)  
 
 `2021`
-Molecular Helminthology: An Integrated Approach (Invited plenary speaker)
-
-World Association for the Advancement of Veterinary Parasitology (WAAVP) (talk)
-
-5th Parasitic Nematode Workshop: Bridging the Divide (Invited plenary speaker) (virtual)
+- Molecular Helminthology: An Integrated Approach (Invited plenary speaker)  
+- World Association for the Advancement of Veterinary Parasitology (WAAVP) (talk)  
+- 5th Parasitic Nematode Workshop: Bridging the Divide (Invited plenary speaker) (virtual)  
 
 `2019`
-World Association for the Advancement of Veterinary Parasitology (WAAVP), Madison, USA (talk & poster)
+-  World Association for the Advancement of Veterinary Parasitology (WAAVP), Madison, USA (talk & poster)
 
 `2018`
-Ecology, Evolution and Genomics of C. elegans and other Nematodes. Wellcome Sanger Institute, Cambridgeshire, UK.
-
-Meiosis and Beyond workshop, Earlham Institute, Norwich, UK
+-  Ecology, Evolution and Genomics of C. elegans and other Nematodes. Wellcome Sanger Institute, Cambridgeshire, UK.  
+-  Meiosis and Beyond workshop, Earlham Institute, Norwich, UK
 
 `2017`
-British Society for Parasitology, Dundee, Scotland.
+-  British Society for Parasitology, Dundee, Scotland.
 
 `2016`
-INRA Parasitology Conference. Tours, France (Invited keynote speaker)
-
-British Society for Parasitology, Imperial College London, UK (poster)
+-  INRA Parasitology Conference. Tours, France (Invited keynote speaker)
+-  British Society for Parasitology, Imperial College London, UK (poster)
 
 `2014`
-Anthelmintics: From Discovery to Resistance: San Francisco, USA (talk & poster)
-
-Australian Society for Parasitology Conference, Canberra, Australia
-
-Molecular and Cellular Biology of Helminth Parasites VIII, Hydra, Greece
+- Anthelmintics: From Discovery to Resistance: San Francisco, USA (talk & poster)
+- Australian Society for Parasitology Conference, Canberra, Australia
+- Molecular and Cellular Biology of Helminth Parasites VIII, Hydra, Greece
 
 `2012`
-Australian Society for Parasitology Conference, Tasmania, Australia (talk & poster)
-
-Genetics Society of AustralAsia, Melbourne, Australia (poster)
+- Australian Society for Parasitology Conference, Tasmania, Australia (talk & poster)
+- Genetics Society of AustralAsia, Melbourne, Australia (poster)
 
 `2009`
-6th Annual Australian QPCR Meeting; Melbourne, Australia
+- 6th Annual Australian QPCR Meeting; Melbourne, Australia
 
 `2008`
-4th Australasian Gene Therapy Society Meeting, Melbourne, Australia
+- 4th Australasian Gene Therapy Society Meeting, Melbourne, Australia
 
 ## Outreach / media
 `2021`  
@@ -296,12 +286,15 @@ Promotional - [Meet some of our Postdocs working at Wellcome Sanger Institute](h
 
 ## Professional Associations and Contributions
 ### Associate Editor
-`2021 - now`
+`2023 - ongoing`
+International Journal for Parasitology
+`2021 - 2023`
 Parasites and Vectors (Parasite genetics, genomics and proteomics section)
+
 
 ### Review Editor
 `2021 - now`
-Editorial Board of Neglected Tropical Diseases (specialty section of Frontiers in Tropical Diseases)
+Editorial Board of Neglected Tropical Diseases (speciality section of Frontiers in Tropical Diseases)
 
 ### Journal Referee
 Bioinformatics, Bioinformatics Advances, BMC Biotechnology, Frontiers Tropical Diseases, Genes, Genome Biology and Evolution, Genomics, GigaScience, International Journal of Parasitology, International Journal of Parasitology Drugs and Drug Resistance, Mitochondrial DNA Part B: Resources, Molecular Ecology Resources, Nature Communications, Nucleic Acid Research, Parasitology International, Parasites & Vectors, Parasitology Research, Pathogens, PLoS Neglected Tropical Diseases, PLoS One, PLoS Pathogens, Scientific Reports, Trends in Parasitology.
@@ -309,20 +302,25 @@ Bioinformatics, Bioinformatics Advances, BMC Biotechnology, Frontiers Tropical D
 ### Grant Referee
 Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and development), BBSRC, NERC
 
+### PhD thesis Referee
+- 2023 - James Cook University, Australia
+
 ## Teaching Experience
 ### Undergraduate
 **Practical Demonstrator**: supervising groups of 16-25 students, direct face-to-face contact
 
 **Head Practical Demonstrator**: delivery of pre-lab lectures and tutorials, supervision of 80-150 students and management of sessional demonstrators
 
-**Practical design / writing**: development of new, and, updating of existing practical material, redevelopment of practical manuals and assessment guidelines.
+**Practical design/writing**: development of new, and, updating of existing practical material, redevelopment of practical manuals and assessment guidelines.
 
 **3rd year Genetics Practical Unit Coordination**: administration the 3rd year practical course, supervising up to 80 students, delivery of practical material including lectures and tutorials.
 
 ### Postgraduate
-**Postgraduate supervision/mentoring**: Honours (5 students), Masters (4 students), PhD (6 students)
+**Postgraduate supervision**
+- PhD students: Marina Papaiakovou, Univerisity of Cambridge (co-supervisor with Cinzia Cantacessi) - 2022-2025
+- "day-to-day" mentoring: Honours (5 students), Masters (2 students), PhD (4 students)
 
-**Course Lead Instructor, High Resolution Melt Genotyping and Populations Genetics for NTDs**, Noguchi Memorial Institute for Medical Research, Accra, Ghana (2014)
+**Course Lead Instructor, High-Resolution Melt Genotyping and Populations Genetics for NTDs**, Noguchi Memorial Institute for Medical Research, Accra, Ghana (2014)
 
 **Course Instructor, Working with Pathogen Genomes**, Wellcome Trust Advanced Courses: Hinxton (Jan 2016), Ho Chi Minh City, Vietnam (November 2017), Cape Town, South Africa (2018), Montevideo, Uruguay (2018; lead instructor), Hinxton, UK (2019), Asia (online 2021), Latin America (online 2022).
 
@@ -336,6 +334,6 @@ Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and 
 
 <!-- ### Footer
 
-Last updated: 22nd July 2022 -->
+Last updated: 15th September 2023 -->
 
 
