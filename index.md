@@ -168,13 +168,11 @@ Title: "The generation and maintenance of genetic novelty in parasitic helminths
   - CARIRS-markers: “Development of diagnostic genetic markers to detect sub optimal response to ivermectin treatment” (Amount: $438,000 USD; Doyle lead writer)  
   - CARIRS-mission: “Developing molecular tools to define Onchocerca volvulus transmission zones and estimate transmission risks between zones” (Amount: $224,000 USD)  
   - TDResist: “A population genetic model for the selection and transmission of ivermectin sub-optimal response genotypes” (Amount: $87,000 USD)  
-
 - **Burroughs Wellcome Collaborative Research Travel Award**. Role: Principal Investigator. Amount: $3,350 AUD  
-
 - **La Trobe University Understanding Disease RFA Grant**. Role: Co-Investigator. Amount: $28,399 AUD  
 Title: “Genetic tools to define epidemiological endpoints for onchocerciasis elimination in sub-Saharan Africa”.  
 
-`2013`
+`2013`  
 - **Bill and Melinda Gates Grand Challenges, Explorations**. Role: Co-Investigator. Amount: $100,000 USD  
 Title: “A small animal model to bridge the gap between in vitro assay and human testing for drug development in onchocerciasis”  
 
@@ -184,14 +182,13 @@ Title: “Biodiversity and the evolution of host range of Cercopithfilaria spp.,
 - **WHO/TDR Research Capacity Strengthening and Knowledge Management Grant**. Role: Co-Investgator. Amount: $50,000 USD  
 Title: “Transfer of high resolution melt genotyping technology form Australia to Ghana, Cameroon and the WHO/Multi-disease Surveillance Center”.  
 
-`2012`
+`2012`  
 - **Illumina MiSeq Grant**. Role: Principal Investigator. Amount: $230,000 AUD  
 “Investigating drug resistance in the nematode Onchocerca volvulus using a genotype-by-sequencing method”  
 
-`2011`
+`2011`  
 - **La Trobe University eResearch Grant**. Role: Co-Investigator. Amount: $50,000 AUD  
 “Establishment of an analysis pipeline for next generation sequencing (NGS) data”  
-
 - **La Trobe University Faculty Early Career Research Grant**. Role: Principal Investigator. Amount: $3,500 AUD  
 Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elegans”  
 
