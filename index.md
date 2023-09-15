@@ -300,7 +300,7 @@ Editorial Board of Neglected Tropical Diseases (speciality section of Frontiers 
 Bioinformatics, Bioinformatics Advances, BMC Biotechnology, Frontiers Tropical Diseases, Genes, Genome Biology and Evolution, Genomics, GigaScience, International Journal of Parasitology, International Journal of Parasitology Drugs and Drug Resistance, Mitochondrial DNA Part B: Resources, Molecular Ecology Resources, Nature Communications, Nucleic Acid Research, Parasitology International, Parasites & Vectors, Parasitology Research, Pathogens, PLoS Neglected Tropical Diseases, PLoS One, PLoS Pathogens, Scientific Reports, Trends in Parasitology.
 
 ### Grant Referee
-Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and development), BBSRC, NERC
+Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and development), BBSRC, NERC, MRC, UKRI  
 
 ### PhD thesis Referee
 - 2023 - James Cook University, Australia
@@ -324,9 +324,9 @@ Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and 
 
 **Course Instructor, Working with Pathogen Genomes**, Wellcome Trust Advanced Courses: Hinxton (Jan 2016), Ho Chi Minh City, Vietnam (November 2017), Cape Town, South Africa (2018), Montevideo, Uruguay (2018; lead instructor), Hinxton, UK (2019), Asia (online 2021), Latin America (online 2022).
 
-**Course Instructor, Helminth Bioinformatics**, Wellcome Trust Advanced Courses: Accra, Ghana (2019), Asia (online 2021).
+**Course Instructor, Helminth Bioinformatics**, Wellcome Trust Advanced Courses: Accra, Ghana (2019), Asia (online 2021; lead instructor), Thailand (2023; lead instructor)
 
-**Course Instructor, Pathogen Genomics MSc**, The London School of Hygiene & Tropical Medicine, London, UK: April/May 2018, 2019, April 2020, 2021 (remote online teaching), April 2022.
+**Course Instructor, Pathogen Genomics MSc**, The London School of Hygiene & Tropical Medicine, London, UK: April/May 2018, 2019, April 2020, 2021 (remote online teaching), April 2022, 2023.
 
 
 
