@@ -150,14 +150,13 @@ Since 2018 (last 5 yrs): 39 publications; 7 first author; 4 senior author
 
 
 ## Research Support
-Total: ~£5.14 M GBP
+Total: ~£5.5 M GBP
 
 `2023`
 - **EDCTP** . Role: Co-Investigator. Amount: €3,553,000 (€369,000 to SRD/WSI).  
 Title: "STOP 2030: Towards the interruption of transmission of soil-transmitted helminths: Promoting implementation of research results of a fixed-dose combination of co-formulated ivermectin and albendazole".  
 - **Sanger Excellence Fellowship**. To support postdoctoral fellow, Mona Suleiman, for 3 yrs. Role: Principal Investigator.  
 Title: "Experimental evolution in the parasitic worm Strongyloides to map ivermectin drug resistance in the lab and field"
-
 
 `2020`  
 - **UKRI Future Leaders Fellowship**. Role: Principal Investigator. Amount: £1.3 M GBP / 4 yrs  
@@ -175,10 +174,8 @@ Title: “Genetic tools to define epidemiological endpoints for onchocerciasis e
 `2013`  
 - **Bill and Melinda Gates Grand Challenges, Explorations**. Role: Co-Investigator. Amount: $100,000 USD  
 Title: “A small animal model to bridge the gap between in vitro assay and human testing for drug development in onchocerciasis”  
-
 - **La Trobe University Securing Food, Water and the Environment RFA grant**. Role: Co-Investgator. Amount: $81,500 AUD  
 Title: “Biodiversity and the evolution of host range of Cercopithfilaria spp., filarial parasites of small native mammals”  
-
 - **WHO/TDR Research Capacity Strengthening and Knowledge Management Grant**. Role: Co-Investgator. Amount: $50,000 USD  
 Title: “Transfer of high resolution melt genotyping technology form Australia to Ghana, Cameroon and the WHO/Multi-disease Surveillance Center”.  
 
