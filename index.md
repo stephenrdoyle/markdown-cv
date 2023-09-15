@@ -287,7 +287,7 @@ Promotional - [Meet some of our Postdocs working at Wellcome Sanger Institute](h
 ## Professional Associations and Contributions
 ### Associate Editor
 `2023 - ongoing`
-International Journal for Parasitology
+International Journal for Parasitology  
 `2021 - 2023`
 Parasites and Vectors (Parasite genetics, genomics and proteomics section)
 
