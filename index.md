@@ -64,11 +64,11 @@ Since 2018 (last 5 yrs): 39 publications; 7 first author; 4 senior author
 
 
 `2023`
-- Buddenborg SK, Lu Z, Sankaranarayanan G, **DOYLE SR**, Berriman M. [The stage-and sex-specific transcriptome of the human parasite *Schistosoma mansoni*](https://doi.org/10.1101/2023.05.02.539039). BioRxiv. [Data exploration tool of Schisto lifecycle](https://lifecycle.schisto.xyz/)
-- Roura A, **DOYLE SR**, Castro-Bugallo A, Gonzalez AF, Strugnell JM. [Trophic ecology of Octopus vulgaris paralarvae along the Iberian Canary current eastern boundary upwelling system](https://doi.org/10.1038/s41598-023-35206-4). Scientific Reports.
-- Gandasegui J, Power RI, Curry E, Lau DC-W, O’Neill CM, Wolstenholme A, Prichard R, Šlapeta J, **DOYLE SR** (2023) [Genome structure and population genomics of the canine heartworm *Dirofilaria immitis*](https://doi.org/10.1101/2023.04.25.538225). BioRxiv.
+- Gandasegui J, Power RI, Curry E, Lau DC-W, O’Neill CM, Wolstenholme A, Prichard R, Šlapeta J, **DOYLE SR** (2023) [Genome structure and population genomics of the canine heartworm *Dirofilaria immitis*](https://doi.org/10.1101/2023.04.25.538225). International Journal for Parasitology. 
+- Buddenborg SK, Lu Z, Sankaranarayanan G, **DOYLE SR**, Berriman M. [The stage-and sex-specific transcriptome of the human parasite *Schistosoma mansoni*](https://doi.org/10.1101/2023.05.02.539039). BioRxiv. [Data exploration tool of Schisto lifecycle](https://lifecycle.schisto.xyz/)  
+- Roura A, **DOYLE SR**, Castro-Bugallo A, Gonzalez AF, Strugnell JM. [Trophic ecology of Octopus vulgaris paralarvae along the Iberian Canary current eastern boundary upwelling system](https://doi.org/10.1038/s41598-023-35206-4). Scientific Reports.   
 - Attenborough T, Rawlinson KA, Diaz Soria CL, Ambridge K, Sankaranarayanan G, Graham J, **DOYLE SR**, Rinaldi G, Berriman M (2023) [A single-cell atlas of the free-living miracidium larva of *Schistosoma mansoni*](https://doi.org/10.1101/2023.03.27.533868). BioRxiv.  
-- Papaiakovou M, Fraija-Fernández N, James K, Briscoe AG, Hall A, Jenkins TP, Dunn J, Levecke B, Mekonnen Z, Cools P, **DOYLE SR**, Cantacessi C, Littlewood DTJ (2023) [Evaluation of genome skimming to detect and characterise human and livestock helminths](https://doi.org/10.1016/j.ijpara.2022.12.002). International Journal for Parasitology. Cover art selected for this issue.  
+- Papaiakovou M, Fraija-Fernández N, James K, Briscoe AG, Hall A, Jenkins TP, Dunn J, Levecke B, Mekonnen Z, Cools P, **DOYLE SR**, Cantacessi C, Littlewood DTJ (2023) [Evaluation of genome skimming to detect and characterise human and livestock helminths](https://doi.org/10.1016/j.ijpara.2022.12.002). International Journal for Parasitology. Cover art selected for this issue.    
 
 `2022`  
 - **DOYLE SR**, Laing R, Bartley D, Morrison A, Holroyd N, Maitland K, Antonopoulos A, Chaudhry U, Flis I, Howell S, McIntyre J, Gilleard JS, Tait A, Mable BK, Kaplan R, Sargison N, Britton C, Berriman M, Devaney E, Cotton J (2022) [Genomic landscape of drug response reveals novel mediators of anthelmintic resistance](https://doi.org/10.1016/j.celrep.2022.111522). Cell Reports.
