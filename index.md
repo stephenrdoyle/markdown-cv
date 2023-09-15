@@ -280,8 +280,9 @@ Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elega
 ## Professional Associations and Contributions
 ### Associate Editor
 `2023 - ongoing`  
-- International Journal for Parasitology    
-`2021 - 2023`  
+- International Journal for Parasitology  
+  
+`2021 - 2023`    
 - Parasites and Vectors (Parasite genetics, genomics and proteomics section)  
 
 
