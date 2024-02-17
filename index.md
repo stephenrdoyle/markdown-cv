@@ -283,11 +283,20 @@ Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elega
 - 4th Australasian Gene Therapy Society Meeting, Melbourne, Australia
 
 ## Outreach / media
-`2024`
+`2024`   
 - Promotional - [Bringing innovation to intestinal worm treatment - STOP2030 project](https://www.youtube.com/watch?v=7khmmuMyEnQ)
+
+`2022`
+- Promotional - [Resistance genes mapped for drugs to treat parasitic worms](https://www.sanger.ac.uk/news_item/resistance-genes-mapped-for-drugs-to-treat-parasitic-worms/)
+- Promotional - [First genetic map of one of humans oldest parasites](https://www.sanger.ac.uk/news_item/first-genetic-map-of-one-of-humans-oldest-parasites/)
+  
 `2021`  
 - Podcast - [Two Brad for You - In Conversation 21 - Sharing Genomes and More with Stephen Doyle](https://podcasts.apple.com/gb/podcast/tbfy-in-conversation-21-sharing-genomes-and-more/id1268436621?i=1000517725731)  
 - Promotional - [Meet some of our Postdocs working at Wellcome Sanger Institute](https://www.youtube.com/watch?v=1-vxm2nBmFA)  
+
+`2020`
+- Promotional - [Puzzles and Parasites](https://sangerinstitute.blog/2020/04/27/puzzles-and-parasites/)
+- Promotional - [Sanger researcher backed through flagship fellowship](https://www.sanger.ac.uk/news_item/sanger-researcher-backed-through-flagship-fellowship/)
 
 
 ## Professional Associations and Contributions
