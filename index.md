@@ -14,7 +14,7 @@ UKRI Future Leaders Fellow, Group Leader @ Wellcome Sanger Institute
 </div>
 
 ## Overview
-I am a molecular and computational biologist with a keen interest in understanding the evolutionary biology of parasitic worms that infect humans and animals. I lead a multidisciplinary research group where we use population-wide to single-cell resolution genomics approaches to understand the genetic basis for the evolutionary success and future potential of parasitic worms across space and time, and to identify evolutionary constraints that may be exploited to develop novel ways to control them.
+I am a molecular and computational biologist focused on understanding the evolutionary biology of parasitic worms that infect humans and animals. I lead a multidisciplinary research group where we use population-wide to single-cell resolution genomic approaches to understand the genetic basis for the evolutionary success and future potential of parasitic worms across space and time, and to identify evolutionary constraints that may be exploited to develop novel ways to control them.
 
 ## Employment
 `2020 - now`
