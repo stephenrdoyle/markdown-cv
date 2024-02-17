@@ -13,6 +13,8 @@ UKRI Future Leaders Fellow, Group Leader @ Wellcome Sanger Institute
 | <a href="https://scholar.google.com/citations?user=YxhUT5cAAAAJ&hl=en">Google Scholar</a>
 </div>
 
+## Overview
+I am a molecular and computational biologist with a keen interest in understanding the evolutionary biology of parasitic worms that infect humans and animals. I lead a multidisciplinary research group where we use population-wide to single-cell resolution genomics approaches to understand the genetic basis for the evolutionary success and future potential of parasitic worms across space and time, and to identify evolutionary constraints that may be exploited to develop novel ways to control them.
 
 ## Employment
 `2020 - now`
@@ -59,16 +61,22 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 59 publications; 14 first author; 5 senior author  
-Since 2018 (last 5 yrs): 39 publications; 7 first author; 4 senior author  
+Total: 62 publications; 14 first author; 5 senior author  
+Since 2019 (last 5 yrs): 37 publications; 6 first author; 4 senior author  
 
 
+`2024`
+- Gandasegui J, Power RI, Curry E, Lau DC-W, O’Neill CM, Wolstenholme A, Prichard R, Šlapeta J, **DOYLE SR** (2024) [Genome structure and population genomics of the canine heartworm *Dirofilaria immitis*](https://doi.org/10.1016/j.ijpara.2023.07.006). International Journal for Parasitology    
+- Antonopoulos A, Charvet CL, Maitland K, **DOYLE SR**, Neveu C, Laing R. (2024) [Functional validation of novel levamisole resistance marker S168T in *Haemonchus contortus*](https://doi.org/10.1016/j.ijpddr.2024.100524) International Journal for Parasitology: Drugs and Drug Resistance   
+- Antonopoulos A, Higgins O,  **DOYLE SR**, Bartley D, Morrison A, Shalaby MM, Reboud J, Devaney E, Smith TJ, Laing R, Busin V (2024) [Real-time single-base specific detection of the *Haemonchus contortus* S168T variant associated with levamisole resistance using loop-primer endonuclease cleavage loop-mediated isothermal amplification](https://doi.org/10.1016/j.mcp.2023.101946). Molecular and Cellular Probes   
+- Brann T, Beltramini A, Chaparro C, Berriman M, **DOYLE SR**, Protasio A. (2024) [Subtelomeric plasticity contributes to gene family expansion in the human parasitic flatworm *Schistosoma mansoni*]() BMC Genomics (accepted)   
+  
 `2023`
-- Gandasegui J, Power RI, Curry E, Lau DC-W, O’Neill CM, Wolstenholme A, Prichard R, Šlapeta J, **DOYLE SR** (2023) [Genome structure and population genomics of the canine heartworm *Dirofilaria immitis*](https://doi.org/10.1016/j.ijpara.2023.07.006). International Journal for Parasitology. 
 - Buddenborg SK, Lu Z, Sankaranarayanan G, **DOYLE SR**, Berriman M. [The stage-and sex-specific transcriptome of the human parasite *Schistosoma mansoni*](https://doi.org/10.1101/2023.05.02.539039). BioRxiv. [Data exploration tool of Schisto lifecycle](https://lifecycle.schisto.xyz/)  
 - Roura A, **DOYLE SR**, Castro-Bugallo A, Gonzalez AF, Strugnell JM. [Trophic ecology of Octopus vulgaris paralarvae along the Iberian Canary current eastern boundary upwelling system](https://doi.org/10.1038/s41598-023-35206-4). Scientific Reports.   
 - Attenborough T, Rawlinson KA, Diaz Soria CL, Ambridge K, Sankaranarayanan G, Graham J, **DOYLE SR**, Rinaldi G, Berriman M (2023) [A single-cell atlas of the free-living miracidium larva of *Schistosoma mansoni*](https://doi.org/10.1101/2023.03.27.533868). BioRxiv.  
-- Papaiakovou M, Fraija-Fernández N, James K, Briscoe AG, Hall A, Jenkins TP, Dunn J, Levecke B, Mekonnen Z, Cools P, **DOYLE SR**, Cantacessi C, Littlewood DTJ (2023) [Evaluation of genome skimming to detect and characterise human and livestock helminths](https://doi.org/10.1016/j.ijpara.2022.12.002). International Journal for Parasitology. Cover art selected for this issue.    
+- Papaiakovou M, Fraija-Fernández N, James K, Briscoe AG, Hall A, Jenkins TP, Dunn J, Levecke B, Mekonnen Z, Cools P, **DOYLE SR**, Cantacessi C, Littlewood DTJ (2023) [Evaluation of genome skimming to detect and characterise human and livestock helminths](https://doi.org/10.1016/j.ijpara.2022.12.002). International Journal for Parasitology. Cover art selected for this issue.
+- Crawford KE, Hedtke SM, **DOYLE SR**, Kuesel AC, Armoo S, Osei-Atweneboana MY, Grant WN (2019) [Genome-based tools for onchocerciasis elimination: Utility of the mitochondrial genome for delineating Onchocerca volvulus transmission zones](https://doi.org/10.1016/j.ijpara.2023.11.002). International Journal for Parasitology.    
 
 `2022`  
 - **DOYLE SR**, Laing R, Bartley D, Morrison A, Holroyd N, Maitland K, Antonopoulos A, Chaudhry U, Flis I, Howell S, McIntyre J, Gilleard JS, Tait A, Mable BK, Kaplan R, Sargison N, Britton C, Berriman M, Devaney E, Cotton J (2022) [Genomic landscape of drug response reveals novel mediators of anthelmintic resistance](https://doi.org/10.1016/j.celrep.2022.111522). Cell Reports.
@@ -106,7 +114,6 @@ Since 2018 (last 5 yrs): 39 publications; 7 first author; 4 senior author
 - **DOYLE SR**, Cotton JA. (2019) [Genome-wide approaches to investigate anthelmintic resistance](https://doi.org/10.1016/j.pt.2019.01.004). Trends in Parasitology
 - **DOYLE SR**, Illingworth CJR, Laing R, Bartley DJ, Redman E, Martinelli A, Holroyd N, Morrison AA, Rezansoff A, Tracey A, Devaney E, Berriman M, Sargison N, Cotton JA, Gilleard JS. (2019) [Population genomic and evolutionary modelling analyses reveal a single major QTL for ivermectin drug resistance in the pathogenic nematode, *Haemonchus contortus*](https://doi.org/10.1186/s12864-019-5592-6). BMC Genomics.
 - Amor MD, **DOYLE SR**, Norman MD, Roura A, Hall NE, Robinson AJ, Leite TS, Strugnell JM. (2019) [Genome-wide sequencing uncovers cryptic diversity and mito-nuclear discordance in the Octopus vulgaris species complex](https://doi.org/10.1101/573493). BioRxiv
-- Crawford KE, Hedtke SM, **DOYLE SR**, Kuesel AC, Armoo S, Osei-Atweneboana MY, Grant WN (2019) [Utility of the Onchocerca volvulus mitochondrial genome for delineation of parasite transmission zones](https://doi.org/10.1101/732446 ). BioRxiv.
 
 `2018`  
 - Armoo S, **DOYLE SR**, Hedtke SM, Adjami GA, Boakye DA, Kuesel AC, Osei-Atwnenboana MY, Grant WN. (2018) [Reduced variation in Wolbachia density of larval stages in comparison with adults of Onchocerca volvulus: implications for clinical outcome of infection?](https://doi.org/10.1101/458034 ) BioRxiv.
@@ -192,10 +199,14 @@ Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elega
 
 ## Presentations  
 ### Departmental/Invited Talks
+`2024`
+- 24th Drug Design & Development Seminar (DDDS), Germany
+- University of Bath, UK
+
 `2023`
 - ZAPwoms, USA (virtual)  
 - NTD Day, York Biomedical Institute, UK  
--  Nematode Functional Genomics meeting, University of Glasgow, UK
+- Nematode Functional Genomics meeting, University of Glasgow, UK
 
 `2022`  
 - British Association for Veterinary Parasitology (virtual)  
@@ -272,6 +283,8 @@ Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elega
 - 4th Australasian Gene Therapy Society Meeting, Melbourne, Australia
 
 ## Outreach / media
+`2024`
+- Promotional - [Bringing innovation to intestinal worm treatment - STOP2030 project](https://www.youtube.com/watch?v=7khmmuMyEnQ)
 `2021`  
 - Podcast - [Two Brad for You - In Conversation 21 - Sharing Genomes and More with Stephen Doyle](https://podcasts.apple.com/gb/podcast/tbfy-in-conversation-21-sharing-genomes-and-more/id1268436621?i=1000517725731)  
 - Promotional - [Meet some of our Postdocs working at Wellcome Sanger Institute](https://www.youtube.com/watch?v=1-vxm2nBmFA)  
@@ -297,7 +310,8 @@ Bioinformatics, Bioinformatics Advances, BMC Biotechnology, Frontiers Tropical D
 Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and development), BBSRC, NERC, MRC, UKRI  
 
 ### PhD thesis Referee
-`2023`  
+`2023`
+- University of Calgary, Canada
 - James Cook University, Australia  
 
 ## Teaching Experience
@@ -313,7 +327,7 @@ Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and 
 ### Postgraduate
 **Postgraduate supervision**
 - PhD students: Marina Papaiakovou, Univerisity of Cambridge (co-supervisor with Cinzia Cantacessi) - 2022-2025
-- "day-to-day" mentoring: Honours (5 students), Masters (2 students), PhD (4 students)
+- "day-to-day" mentoring: Honours (5 students), Masters (2 students), PhD (6 students)
 
 **Course Lead Instructor, High-Resolution Melt Genotyping and Populations Genetics for NTDs**, Noguchi Memorial Institute for Medical Research, Accra, Ghana (2014)
 
