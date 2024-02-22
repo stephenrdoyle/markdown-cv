@@ -203,7 +203,8 @@ Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elega
 - 24th Drug Design & Development Seminar (DDDS), Germany
 - University of Bath, UK
 
-`2023`
+`2023`  
+- Parasitic Helminths: New Perspectives in Biology and Infection, Hydra, Greece
 - ZAPwoms, USA (virtual)  
 - NTD Day, York Biomedical Institute, UK  
 - Nematode Functional Genomics meeting, University of Glasgow, UK
