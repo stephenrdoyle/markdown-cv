@@ -205,7 +205,7 @@ Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elega
 
 `2023`  
 - Parasitic Helminths: New Perspectives in Biology and Infection, Hydra, Greece
-- ZAPwoms, USA (virtual)  
+- ZAPworms, USA (virtual)  
 - NTD Day, York Biomedical Institute, UK  
 - Nematode Functional Genomics meeting, University of Glasgow, UK
 
