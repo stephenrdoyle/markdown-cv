@@ -65,11 +65,12 @@ Total: 62 publications; 14 first author; 5 senior author
 Since 2019 (last 5 yrs): 37 publications; 6 first author; 4 senior author  
 
 
-`2024`
+`2024`  
+- Brann T, Beltramini A, Chaparro C, Berriman M, **DOYLE SR**, Protasio A. (2024) [Subtelomeric plasticity contributes to gene family expansion in the human parasitic flatworm *Schistosoma mansoni*](https://doi.org/10.1186/s12864-024-10032-8). BMC Genomics  
 - Gandasegui J, Power RI, Curry E, Lau DC-W, O’Neill CM, Wolstenholme A, Prichard R, Šlapeta J, **DOYLE SR** (2024) [Genome structure and population genomics of the canine heartworm *Dirofilaria immitis*](https://doi.org/10.1016/j.ijpara.2023.07.006). International Journal for Parasitology    
-- Antonopoulos A, Charvet CL, Maitland K, **DOYLE SR**, Neveu C, Laing R. (2024) [Functional validation of novel levamisole resistance marker S168T in *Haemonchus contortus*](https://doi.org/10.1016/j.ijpddr.2024.100524) International Journal for Parasitology: Drugs and Drug Resistance   
+- Antonopoulos A, Charvet CL, Maitland K, **DOYLE SR**, Neveu C, Laing R. (2024) [Functional validation of novel levamisole resistance marker S168T in *Haemonchus contortus*](https://doi.org/10.1016/j.ijpddr.2024.100524). International Journal for Parasitology: Drugs and Drug Resistance   
 - Antonopoulos A, Higgins O,  **DOYLE SR**, Bartley D, Morrison A, Shalaby MM, Reboud J, Devaney E, Smith TJ, Laing R, Busin V (2024) [Real-time single-base specific detection of the *Haemonchus contortus* S168T variant associated with levamisole resistance using loop-primer endonuclease cleavage loop-mediated isothermal amplification](https://doi.org/10.1016/j.mcp.2023.101946). Molecular and Cellular Probes   
-- Brann T, Beltramini A, Chaparro C, Berriman M, **DOYLE SR**, Protasio A. (2024) [Subtelomeric plasticity contributes to gene family expansion in the human parasitic flatworm *Schistosoma mansoni*]() BMC Genomics (accepted)   
+
   
 `2023`
 - Buddenborg SK, Lu Z, Sankaranarayanan G, **DOYLE SR**, Berriman M. [The stage-and sex-specific transcriptome of the human parasite *Schistosoma mansoni*](https://doi.org/10.1101/2023.05.02.539039). BioRxiv. [Data exploration tool of Schisto lifecycle](https://lifecycle.schisto.xyz/)  
