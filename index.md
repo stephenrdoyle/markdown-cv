@@ -35,7 +35,7 @@ Project: "Population genomics of ivermectin drug response in the human parasitic
 `2011`
 **Postdoctoral Fellow**  
 Department of Genetics, La Trobe University, Australia  
-Project: "Development of Markers for Ivermectin Resistance monitoring in *Onchocerca volvulus*"    
+Project: "Development of markers for ivermectin resistance monitoring in *Onchocerca volvulus*"    
 
 
 
@@ -171,8 +171,8 @@ Title: "Experimental evolution in the parasitic worm Strongyloides to map iverme
 Title: "The generation and maintenance of genetic novelty in parasitic helminths".  
 
 `2014`  
-- **WHO/TDR Research on the Vulnerability of preventative Chemotherapy of Helminth Infections to Emergence of Drug Resistance** (three proposals; Grant and Doyle in collaboration with Osei-Atweneboana, M (Ghana), and Adjami, A (Burkina Faso)). Role: Co-Investigator.  
-  - CARIRS-markers: “Development of diagnostic genetic markers to detect sub optimal response to ivermectin treatment” (Amount: $438,000 USD; Doyle lead writer)  
+- **WHO/TDR Research on the Vulnerability of Preventative Chemotherapy of Helminth Infections to Emergence of Drug Resistance** (three proposals; Grant and Doyle in collaboration with Osei-Atweneboana, M (Ghana), and Adjami, A (Burkina Faso)). Role: Co-Investigator.  
+  - CARIRS-markers: “Development of diagnostic genetic markers to detect sub-optimal response to ivermectin treatment” (Amount: $438,000 USD; Doyle lead writer)  
   - CARIRS-mission: “Developing molecular tools to define Onchocerca volvulus transmission zones and estimate transmission risks between zones” (Amount: $224,000 USD)  
   - TDResist: “A population genetic model for the selection and transmission of ivermectin sub-optimal response genotypes” (Amount: $87,000 USD)  
 - **Burroughs Wellcome Collaborative Research Travel Award**. Role: Principal Investigator. Amount: $3,350 AUD  
@@ -310,7 +310,7 @@ Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elega
 
 
 ### Review Editor
-`2021 - now`
+`2021 - ongoing`
 - Editorial Board of Neglected Tropical Diseases (speciality section of Frontiers in Tropical Diseases)
 
 ### Journal Referee
