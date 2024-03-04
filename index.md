@@ -198,31 +198,31 @@ Title: “Transfer of high resolution melt genotyping technology form Australia 
 Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elegans”  
 
 
-## Mentorship (current lab, direct/indirect mentorship)
-### Current lab
-`Postdoctoral Research Associates`   
+## Mentorship (current lab, direct/indirect mentorship)  
+### Current lab  
+`Postdoctoral Research Associates`    
 Sarah Buddenborg (2022-current)  
-Mona Suleiman (2023-current) (Sanger Excellence Fellow) 
-Javier Gandasegui (2024-current)  
+Mona Suleiman (2023-current) (Sanger Excellence Fellow)  
+Javier Gandasegui (2024-current)   
 
-`PhD candidates - direct supervision/mentorship`
-Marina Papaiakovou, Univerisity of Cambridge (co-supervisor with Cinzia Cantacessi) - (2022-2025)  
-Benedict Karani, University of Glasgow (co-supervisor with James Cotton, Roz Laing, Jennifer McIntyre, Fiona Kenyon) - (2023-2027)  
+`PhD candidates - direct supervision/mentorship`  
+Marina Papaiakovou, Univerisity of Cambridge (co-supervisor with Cinzia Cantacessi) - (2022-2025)   
+Benedict Karani, University of Glasgow (co-supervisor with James Cotton, Roz Laing, Jennifer McIntyre, Fiona Kenyon) - (2023-2027)    
 
-`Other - indirect supervision/mentorship` 
-Jennifer McIntyre (Postdoctoral Research Associate, University of Glasgow) (2020-ongoing)  
-Shannan Summers (PhD candidate, London School of Hygeine and Tropical Medicine / Natural History Museum, London) - (2023-ongoing)  
-Rose Powers (PhD candidate, University of Sydney, Australia) (2023-ongoing)  
+`Other - indirect supervision/mentorship`   
+Jennifer McIntyre (Postdoctoral Research Associate, University of Glasgow) (2020-ongoing)    
+Shannan Summers (PhD candidate, London School of Hygeine and Tropical Medicine / Natural History Museum, London) - (2023-ongoing)    
+Rose Powers (PhD candidate, University of Sydney, Australia) (2023-ongoing)    
 
-### Previous mentorship
-`PhD candidates - indirect supervision`
-Duncan Berger (Wellcome Sanger Institute) 
-Julia Rivero (Universidad de Sevilla, Spain) (2022) - 3 month stay at Sanger
-Kirsty McCann (La Trobe Univerisity, Australia) (2015-2021)
-Sam Armoo (La Trobe University, Australia) (2012-2017)
+### Previous mentorship  
+`PhD candidates - indirect supervision`  
+Duncan Berger (Wellcome Sanger Institute)   
+Julia Rivero (Universidad de Sevilla, Spain) (2022) - 3 month stay at Sanger  
+Kirsty McCann (La Trobe Univerisity, Australia) (2015-2021)  
+Sam Armoo (La Trobe University, Australia) (2012-2017)  
 
-`Masters candidates`
-Javier Gandasegui (Cardiff Univerity) (2022) - Master's thesis summer project
+`Masters candidates`  
+Javier Gandasegui (Cardiff Univerity) (2021) - Master's thesis summer project  
 
 
 
