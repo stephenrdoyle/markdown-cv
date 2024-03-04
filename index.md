@@ -219,6 +219,7 @@ Rose Powers (PhD candidate, University of Sydney, Australia) (2023-ongoing)
 Duncan Berger (Wellcome Sanger Institute)   
 Julia Rivero (Universidad de Sevilla, Spain) (2022) - 3 month stay at Sanger  
 Kirsty McCann (La Trobe Univerisity, Australia) (2015-2021)  
+Neha Sirwani (La Trobe University) (2013-2020)  
 Sam Armoo (La Trobe University, Australia) (2012-2017)  
 
 `Masters candidates`  
@@ -364,8 +365,6 @@ Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and 
 **3rd year Genetics Practical Unit Coordination**: administration the 3rd year practical course, supervising up to 80 students, delivery of practical material including lectures and tutorials.
 
 ### Postgraduate
-**Postgraduate supervision**
-- "day-to-day" mentoring: Honours (5 students), Masters (2 students), PhD (6 students)
 
 **Course Lead Instructor, High-Resolution Melt Genotyping and Populations Genetics for NTDs**, Noguchi Memorial Institute for Medical Research, Accra, Ghana (2014)
 
