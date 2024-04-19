@@ -231,8 +231,12 @@ Javier Gandasegui (Cardiff Univerity) (2021) - Master's thesis summer project
 ## Presentations  
 ### Departmental/Invited Talks
 `2024`
-- 24th Drug Design & Development Seminar (DDDS), Germany
-- University of Bath, UK
+- 24th Drug Design & Development Seminar (DDDS), Würzburg, Germany
+- Moredun Research Institute, Edinburgh, UK
+- University of Bath, Bath, UK
+- Natural History Museum, London, UK
+- French National Institute for Agriculture, Food, and Environment (INRAE), Toulouse, France
+
 
 `2023`  
 - ZAPworms, USA (virtual)  
