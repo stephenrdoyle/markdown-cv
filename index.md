@@ -277,8 +277,11 @@ Javier Gandasegui (Cardiff Univerity) (2021) - Master's thesis summer project
 - VLSCI NGS Informatics Retreat, Brighton, Australia  
 
 ### Conference talks / posters
+`2024`   
+- UK Strongyloides Meeting, Bath, UK (talk)   
+
 `2023`
-- Parasitic Helminths: New Perspectives in Biology and Infection, Hydra, Greece  
+- Parasitic Helminths: New Perspectives in Biology and Infection, Hydra, Greece (talk)    
 
 `2022`
 - British Association for Veterinary Parasitology (Invited Panel Member for ECR Careers session)  
@@ -293,7 +296,7 @@ Javier Gandasegui (Cardiff Univerity) (2021) - Master's thesis summer project
 
 `2018`
 -  Ecology, Evolution and Genomics of C. elegans and other Nematodes. Wellcome Sanger Institute, Cambridgeshire, UK.  
--  Meiosis and Beyond workshop, Earlham Institute, Norwich, UK
+-  Meiosis and Beyond workshop, Earlham Institute, Norwich, UK (talk)   
 
 `2017`
 -  British Society for Parasitology, Dundee, Scotland.
@@ -304,8 +307,8 @@ Javier Gandasegui (Cardiff Univerity) (2021) - Master's thesis summer project
 
 `2014`
 - Anthelmintics: From Discovery to Resistance: San Francisco, USA (talk & poster)
-- Australian Society for Parasitology Conference, Canberra, Australia
-- Molecular and Cellular Biology of Helminth Parasites VIII, Hydra, Greece
+- Australian Society for Parasitology Conference, Canberra, Australia (talk)   
+- Molecular and Cellular Biology of Helminth Parasites VIII, Hydra, Greece (talk)   
 
 `2012`
 - Australian Society for Parasitology Conference, Tasmania, Australia (talk & poster)
