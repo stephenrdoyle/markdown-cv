@@ -61,23 +61,28 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 62 publications; 14 first author; 5 senior author  
-Since 2019 (last 5 yrs): 37 publications; 6 first author; 4 senior author  
+Total: 66 publications; 14 first author; 7 senior author  
+Since 2019 (last 5 yrs): 33 publications; 3 first author; 6 senior author  
 
 
 `2024`  
+- McIntyre J, Morrison A, Maitland K, Berger D, Price DRG, Dougan S, Grigoriadis D, Tracey A, Holroyd N, Bull K, Rose Vineer H, Glover MJ, Morgan ER, Nisbet AJ, McNeilly T, Bartley Y, Sargison N, Bartley D, Berriman M, Cotton J, Devaney E, Laing R, **DOYLE SR** (2024) [Chromosomal genome assembly resolves drug resistance loci in the parasitic nematode *Teladorsagia circumcincta*](). BioRxiv
+- Goulding D, Tolley C, Mkandawire TT, **DOYLE SR**, Hart E, Airs PM, Grencis RK, Berriman M, Duque-Correa MA (2024) [Hatching of whipworm eggs induced by bacterial contact is serine-protease dependent](https://doi.org/10.1101/2024.08.15.608065). BioRxiv
+- Berger DJ, Park S-K, Crellen T, Vianney TJ, Kabatereine NB, Cotton JA, Sanya R, Elliot A, Tukahebwa EM, Adriko M, Standley CJ, Gouvras A, Kinunghi S, Haas H, Rabone M, Emery A, Lamberton PHL, Webster BL, Allan F, Buddenborg S, Berriman M, Marchant JS, **DOYLE SR**, Webster JP (2024) [Extensive transmission and variation in a functional receptor for praziquantel resistance in endemic *Schistosoma mansoni*](https://www.biorxiv.org/content/10.1101/2024.08.29.610291v2). BioRxiv
+- Power RI, **DOYLE SR**, Šlapeta J. (2024) [Whole genome amplification and sequencing of individual *Dirofilaria immitis* microfilariae](https://doi.org/10.1016/j.exppara.2024.108806). Experimental Parasitology
 - Brann T, Beltramini A, Chaparro C, Berriman M, **DOYLE SR**, Protasio A. (2024) [Subtelomeric plasticity contributes to gene family expansion in the human parasitic flatworm *Schistosoma mansoni*](https://doi.org/10.1186/s12864-024-10032-8). BMC Genomics  
 - Gandasegui J, Power RI, Curry E, Lau DC-W, O’Neill CM, Wolstenholme A, Prichard R, Šlapeta J, **DOYLE SR** (2024) [Genome structure and population genomics of the canine heartworm *Dirofilaria immitis*](https://doi.org/10.1016/j.ijpara.2023.07.006). International Journal for Parasitology    
 - Antonopoulos A, Charvet CL, Maitland K, **DOYLE SR**, Neveu C, Laing R. (2024) [Functional validation of novel levamisole resistance marker S168T in *Haemonchus contortus*](https://doi.org/10.1016/j.ijpddr.2024.100524). International Journal for Parasitology: Drugs and Drug Resistance   
-- Antonopoulos A, Higgins O,  **DOYLE SR**, Bartley D, Morrison A, Shalaby MM, Reboud J, Devaney E, Smith TJ, Laing R, Busin V (2024) [Real-time single-base specific detection of the *Haemonchus contortus* S168T variant associated with levamisole resistance using loop-primer endonuclease cleavage loop-mediated isothermal amplification](https://doi.org/10.1016/j.mcp.2023.101946). Molecular and Cellular Probes   
+- Antonopoulos A, Higgins O,  **DOYLE SR**, Bartley D, Morrison A, Shalaby MM, Reboud J, Devaney E, Smith TJ, Laing R, Busin V (2024) [Real-time single-base specific detection of the *Haemonchus contortus* S168T variant associated with levamisole resistance using loop-primer endonuclease cleavage loop-mediated isothermal amplification](https://doi.org/10.1016/j.mcp.2023.101946). Molecular and Cellular Probes
+- Crawford KE, Hedtke SM, **DOYLE SR**, Kuesel AC, Armoo S, Osei-Atweneboana MY, Grant WN (2024) [Genome-based tools for onchocerciasis elimination: Utility of the mitochondrial genome for delineating Onchocerca volvulus transmission zones](https://doi.org/10.1016/j.ijpara.2023.11.002). International Journal for Parasitology.  
 
   
 `2023`
 - Buddenborg SK, Lu Z, Sankaranarayanan G, **DOYLE SR**, Berriman M. [The stage-and sex-specific transcriptome of the human parasite *Schistosoma mansoni*](https://doi.org/10.1038/s41597-023-02674-2). Scientific Data. [Data exploration tool of Schisto lifecycle](https://lifecycle.schisto.xyz/)  
-- Roura A, **DOYLE SR**, Castro-Bugallo A, Gonzalez AF, Strugnell JM. [Trophic ecology of Octopus vulgaris paralarvae along the Iberian Canary current eastern boundary upwelling system](https://doi.org/10.1038/s41598-023-35206-4). Scientific Reports.   
+- Roura A, **DOYLE SR**, Castro-Bugallo A, Gonzalez AF, Strugnell JM. [Trophic ecology of Octopus vulgaris paralarvae along the Iberian Canary current eastern boundary upwelling system](https://doi.org/10.1038/s41598-023-35206-4). Scientific Reports. 
 - Attenborough T, Rawlinson KA, Diaz Soria CL, Ambridge K, Sankaranarayanan G, Graham J, **DOYLE SR**, Rinaldi G, Berriman M (2023) [A single-cell atlas of the free-living miracidium larva of *Schistosoma mansoni*](https://doi.org/10.1101/2023.03.27.533868). BioRxiv.  
 - Papaiakovou M, Fraija-Fernández N, James K, Briscoe AG, Hall A, Jenkins TP, Dunn J, Levecke B, Mekonnen Z, Cools P, **DOYLE SR**, Cantacessi C, Littlewood DTJ (2023) [Evaluation of genome skimming to detect and characterise human and livestock helminths](https://doi.org/10.1016/j.ijpara.2022.12.002). International Journal for Parasitology. Cover art selected for this issue.
-- Crawford KE, Hedtke SM, **DOYLE SR**, Kuesel AC, Armoo S, Osei-Atweneboana MY, Grant WN (2019) [Genome-based tools for onchocerciasis elimination: Utility of the mitochondrial genome for delineating Onchocerca volvulus transmission zones](https://doi.org/10.1016/j.ijpara.2023.11.002). International Journal for Parasitology.    
+  
 
 `2022`  
 - **DOYLE SR**, Laing R, Bartley D, Morrison A, Holroyd N, Maitland K, Antonopoulos A, Chaudhry U, Flis I, Howell S, McIntyre J, Gilleard JS, Tait A, Mable BK, Kaplan R, Sargison N, Britton C, Berriman M, Devaney E, Cotton J (2022) [Genomic landscape of drug response reveals novel mediators of anthelmintic resistance](https://doi.org/10.1016/j.celrep.2022.111522). Cell Reports.
@@ -387,6 +392,6 @@ Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and 
 
 <!-- ### Footer
 
-Last updated: 15th September 2023 -->
+Last updated: 5th September 2024 -->
 
 
