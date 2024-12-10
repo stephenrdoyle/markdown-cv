@@ -8,7 +8,7 @@ UKRI Future Leaders Fellow, Group Leader @ Wellcome Sanger Institute
 
 <div id="webaddress">
 <a href="mailto:stephen.doyle@sanger.ac.uk">stephen.doyle@sanger.ac.uk</a>
-| <a href="https://stephenrdoyle.github.io/">Lab website</a>
+| <a href="https://helminthgenomics.sanger.ac.uk/">Lab website</a>
 | <a href="https://twitter.com/stephenrdoyle">Twitter</a>
 | <a href="https://scholar.google.com/citations?user=YxhUT5cAAAAJ&hl=en">Google Scholar</a>
 </div>
@@ -61,12 +61,16 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 66 publications; 14 first author; 7 senior author  
-Since 2019 (last 5 yrs): 33 publications; 3 first author; 6 senior author  
+Total: 70 publications; 14 first author; 11 senior author  
+Since 2019 (last 5 yrs): 35 publications; 3 first author; 10 senior author  
 
 
 `2024`  
-- McIntyre J, Morrison A, Maitland K, Berger D, Price DRG, Dougan S, Grigoriadis D, Tracey A, Holroyd N, Bull K, Rose Vineer H, Glover MJ, Morgan ER, Nisbet AJ, McNeilly T, Bartley Y, Sargison N, Bartley D, Berriman M, Cotton J, Devaney E, Laing R, **DOYLE SR** (2024) [Chromosomal genome assembly resolves drug resistance loci in the parasitic nematode *Teladorsagia circumcincta*](). BioRxiv
+- Buddenborg SK, **DOYLE SR** (2024) [Entering the spatial age of parasite genomics](https://www.cell.com/trends/parasitology/fulltext/S1471-4922(24)00349-0). Trends in Parasitology
+- Buddenborg SK, Morrison A, Fletcher AC, Kieninger MR, Ng BL, Maitland K, McIntyre J, Hart E, Bartley D, Duque-Correa MA, **DOYLE SR** (2024) [Optimisation of single-nuclei isolation and RNA sequencing of parasitic nematodes](https://doi.org/10.1101/2024.11.13.623282). BioRxiv
+- Papaiakovou M, Waeschenbach A, Ajibola O, Ajjampur SSR, Anderson RM, Bailey R, Chung JB, Cambra Pelleja M, Caro NR, Chaima D, Cimino RO, Cools P, Cossa A, Dunn J, Galagan S, Gandasegui J, Grau Pujol B, Houlder E, Ibikounle M, Jenkins TP, Kalua K, Kjetland EF, Krolewiecki AJ, Levecke B, Luty AJF, MacDonald A, Mandomando I, Manuel M, Martinez-Valladares M, Mejia R, Mekonnen Z, Messa Jr A, Mpairwe H, Muchisse O, Munoz J, Mwinzi P, Novela V, Odiere MR, Sacoor C, Walson JL, Williams SA, McManus SW, Littlewood DTJ, Cantacessi C, **DOYLE SR** (2024) [Global diversity of soil-transmitted helminths reveals population-biased genetic variation that impacts diagnostic targets](https://doi.org/10.1101/2024.09.23.614419). BioRxiv
+- Gandasegui J, Grau-Pujol B, Novela V, Muchisse O, Cambra-Pellejà M, Cossa A, Jamine JC, Sacoor C, Brienen EAT, Catala-Moll F, van Lieshout L, Martínez-Valladares M, Paredes R, Muñoz J, **DOYLE SR** [Deep-amplicon sequencing of the complete beta-tubulin gene in *Trichuris trichiura* before and after albendazole treatment](https://doi.org/10.1016/j.ijpddr.2024.100570). International Journal for Parasitology: Drugs and Drug Resistance
+- McIntyre J, Morrison A, Maitland K, Berger D, Price DRG, Dougan S, Grigoriadis D, Tracey A, Holroyd N, Bull K, Rose Vineer H, Glover MJ, Morgan ER, Nisbet AJ, McNeilly T, Bartley Y, Sargison N, Bartley D, Berriman M, Cotton J, Devaney E, Laing R, **DOYLE SR** (2024) [Chromosomal genome assembly resolves drug resistance loci in the parasitic nematode *Teladorsagia circumcincta*](). Accepted PLoS Pathogens
 - Goulding D, Tolley C, Mkandawire TT, **DOYLE SR**, Hart E, Airs PM, Grencis RK, Berriman M, Duque-Correa MA (2024) [Hatching of whipworm eggs induced by bacterial contact is serine-protease dependent](https://doi.org/10.1101/2024.08.15.608065). BioRxiv
 - Berger DJ, Park S-K, Crellen T, Vianney TJ, Kabatereine NB, Cotton JA, Sanya R, Elliot A, Tukahebwa EM, Adriko M, Standley CJ, Gouvras A, Kinunghi S, Haas H, Rabone M, Emery A, Lamberton PHL, Webster BL, Allan F, Buddenborg S, Berriman M, Marchant JS, **DOYLE SR**, Webster JP (2024) [Extensive transmission and variation in a functional receptor for praziquantel resistance in endemic *Schistosoma mansoni*](https://www.biorxiv.org/content/10.1101/2024.08.29.610291v2). BioRxiv
 - Power RI, **DOYLE SR**, Šlapeta J. (2024) [Whole genome amplification and sequencing of individual *Dirofilaria immitis* microfilariae](https://doi.org/10.1016/j.exppara.2024.108806). Experimental Parasitology
@@ -241,6 +245,7 @@ Javier Gandasegui (Cardiff Univerity) (2021) - Master's thesis summer project
 - University of Bath, Bath, UK
 - Natural History Museum, London, UK
 - French National Institute for Agriculture, Food, and Environment (INRAE), Toulouse, France
+- Simposio internacional de Genómica, Peru (online)
 
 
 `2023`  
@@ -362,6 +367,9 @@ Bioinformatics, Bioinformatics Advances, BMC Biotechnology, Frontiers Tropical D
 Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and development), BBSRC, NERC, MRC, UKRI  
 
 ### PhD thesis Referee
+`2024`
+- University of Liverpool, UK
+
 `2023`
 - University of Calgary, Canada
 - James Cook University, Australia  
