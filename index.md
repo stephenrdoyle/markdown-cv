@@ -61,17 +61,20 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 70 publications; 14 first author; 11 senior author  
-Since 2019 (last 5 yrs): 35 publications; 3 first author; 10 senior author  
+Total: 71 publications; 14 first author; 11 senior author  
+Since 2019 (last 5 yrs): 35 publications; 2 first author; 10 senior author  
 
-
+`2025`   
+- McIntyre J, Morrison A, Maitland K, Berger D, Price DRG, Dougan S, Grigoriadis D, Tracey A, Holroyd N, Bull K, Rose Vineer H, Glover MJ, Morgan ER, Nisbet AJ, McNeilly T, Bartley Y, Sargison N, Bartley D, Berriman M, Cotton J, Devaney E, Laing R, **DOYLE SR** (2025) [Chromosomal genome assembly resolves drug resistance loci in the parasitic nematode *Teladorsagia circumcincta*](https://doi.org/10.1371/journal.ppat.1012820). PLoS Pathogens  
+- Goulding D, Tolley C, Mkandawire TT, **DOYLE SR**, Hart E, Airs PM, Grencis RK, Berriman M, Duque-Correa MA (2025) [Hatching of whipworm eggs induced by bacterial contact is serine-protease dependent](https://doi.org/10.1371/journal.ppat.1012502). PLoS Pathogens
+- Wangwiwatsin A, Kulwong S, Phuyao C, Titapun A, Loilome E, Klanrit P, Namwat N, Sithithaworn P, **DOYLE SR**, Berriman M, Crellen T (2025) [The genome sequence of the liver fluke Opisthorchis viverrini (Poirier, 1886) Stiles & Hassall, 1896](https://doi.org/10.12688/wellcomeopenres.23535.1). Wellcome Open Research
+  
 `2024`  
 - Buddenborg SK, **DOYLE SR** (2024) [Entering the spatial age of parasite genomics](https://www.cell.com/trends/parasitology/fulltext/S1471-4922(24)00349-0). Trends in Parasitology
 - Buddenborg SK, Morrison A, Fletcher AC, Kieninger MR, Ng BL, Maitland K, McIntyre J, Hart E, Bartley D, Duque-Correa MA, **DOYLE SR** (2024) [Optimisation of single-nuclei isolation and RNA sequencing of parasitic nematodes](https://doi.org/10.1101/2024.11.13.623282). BioRxiv
-- Papaiakovou M, Waeschenbach A, Ajibola O, Ajjampur SSR, Anderson RM, Bailey R, Chung JB, Cambra Pelleja M, Caro NR, Chaima D, Cimino RO, Cools P, Cossa A, Dunn J, Galagan S, Gandasegui J, Grau Pujol B, Houlder E, Ibikounle M, Jenkins TP, Kalua K, Kjetland EF, Krolewiecki AJ, Levecke B, Luty AJF, MacDonald A, Mandomando I, Manuel M, Martinez-Valladares M, Mejia R, Mekonnen Z, Messa Jr A, Mpairwe H, Muchisse O, Munoz J, Mwinzi P, Novela V, Odiere MR, Sacoor C, Walson JL, Williams SA, McManus SW, Littlewood DTJ, Cantacessi C, **DOYLE SR** (2024) [Global diversity of soil-transmitted helminths reveals population-biased genetic variation that impacts diagnostic targets](https://doi.org/10.1101/2024.09.23.614419). BioRxiv
+- Power RI, Abdullah S, Walden HS, Verocai GG, Sanders TL, Luksovsky JL, Moorhead AR, Dzimianski MT, Foster JM, Michalski MLL, Rojas A, Chacon SC, Deak G, Mihalca AD, Danesi P, Papadopoulos E, Taweethavonsawat P, Buip DT, Ngoc AD, Sharma RSK, YW Ho Simon, **DOYLE SR**, Slapeta J [Population genomics reveals an ancient origin of heartworms in canids](https://doi.org/10.1101/2024.12.26.630432). BioRxiv.  
+- Papaiakovou M, Waeschenbach A, Ajibola O, Ajjampur SSR, Anderson RM, Bailey R, Chung JB, Cambra Pelleja M, Caro NR, Chaima D, Cimino RO, Cools P, Cossa A, Dunn J, Galagan S, Gandasegui J, Grau Pujol B, Houlder E, Ibikounle M, Jenkins TP, Kalua K, Kjetland EF, Krolewiecki AJ, Levecke B, Luty AJF, MacDonald A, Mandomando I, Manuel M, Martinez-Valladares M, Mejia R, Mekonnen Z, Messa Jr A, Mpairwe H, Muchisse O, Munoz J, Mwinzi P, Novela V, Odiere MR, Sacoor C, Walson JL, Williams SA, McManus SW, Littlewood DTJ, Cantacessi C, **DOYLE SR** (2024) [Global diversity of soil-transmitted helminths reveals population-biased genetic variation that impacts diagnostic targets](https://doi.org/10.1101/2024.09.23.614419). BioRxiv  
 - Gandasegui J, Grau-Pujol B, Novela V, Muchisse O, Cambra-Pellejà M, Cossa A, Jamine JC, Sacoor C, Brienen EAT, Catala-Moll F, van Lieshout L, Martínez-Valladares M, Paredes R, Muñoz J, **DOYLE SR** [Deep-amplicon sequencing of the complete beta-tubulin gene in *Trichuris trichiura* before and after albendazole treatment](https://doi.org/10.1016/j.ijpddr.2024.100570). International Journal for Parasitology: Drugs and Drug Resistance
-- McIntyre J, Morrison A, Maitland K, Berger D, Price DRG, Dougan S, Grigoriadis D, Tracey A, Holroyd N, Bull K, Rose Vineer H, Glover MJ, Morgan ER, Nisbet AJ, McNeilly T, Bartley Y, Sargison N, Bartley D, Berriman M, Cotton J, Devaney E, Laing R, **DOYLE SR** (2024) [Chromosomal genome assembly resolves drug resistance loci in the parasitic nematode *Teladorsagia circumcincta*](). Accepted PLoS Pathogens
-- Goulding D, Tolley C, Mkandawire TT, **DOYLE SR**, Hart E, Airs PM, Grencis RK, Berriman M, Duque-Correa MA (2024) [Hatching of whipworm eggs induced by bacterial contact is serine-protease dependent](https://doi.org/10.1101/2024.08.15.608065). BioRxiv
 - Berger DJ, Park S-K, Crellen T, Vianney TJ, Kabatereine NB, Cotton JA, Sanya R, Elliot A, Tukahebwa EM, Adriko M, Standley CJ, Gouvras A, Kinunghi S, Haas H, Rabone M, Emery A, Lamberton PHL, Webster BL, Allan F, Buddenborg S, Berriman M, Marchant JS, **DOYLE SR**, Webster JP (2024) [Extensive transmission and variation in a functional receptor for praziquantel resistance in endemic *Schistosoma mansoni*](https://www.biorxiv.org/content/10.1101/2024.08.29.610291v2). BioRxiv
 - Power RI, **DOYLE SR**, Šlapeta J. (2024) [Whole genome amplification and sequencing of individual *Dirofilaria immitis* microfilariae](https://doi.org/10.1016/j.exppara.2024.108806). Experimental Parasitology
 - Brann T, Beltramini A, Chaparro C, Berriman M, **DOYLE SR**, Protasio A. (2024) [Subtelomeric plasticity contributes to gene family expansion in the human parasitic flatworm *Schistosoma mansoni*](https://doi.org/10.1186/s12864-024-10032-8). BMC Genomics  
@@ -167,12 +170,20 @@ Since 2019 (last 5 yrs): 35 publications; 3 first author; 10 senior author
 
 
 ## Research Support
-Total: ~£5.5 M GBP
+Total: ~£8 M GBP; ~£2.4 M as Principal Investigator, ~£5.6 M as Co-Investigator
+`2025`
+- **UKRI Future Leaders Fellowship**. Role: Principal Investigator. Amount: £708k GBP / 3 yrs  
+Title: "Unravelling genotypic and phenotypic variation in helminth populations".
+- **UKRI: Southeast Asia regional funding collaboration on infectious diseases**. Role: Co-Investigator. Amount: £983k (£86k to SRD/WSI). 
 
+`2024`
+- **Cambridge-Africa Alborada Trust**. Role: Principal Investigator. Amount: £19.9k GBP / 1.5 yrs
+Title: "Genomic analysis of Strongyloides stercoralis seasonality: implications for diagnosis and control".  
+ 
 `2023`
 - **EDCTP** . Role: Co-Investigator. Amount: €3,553,000 (€369,000 to SRD/WSI).  
 Title: "STOP 2030: Towards the interruption of transmission of soil-transmitted helminths: Promoting implementation of research results of a fixed-dose combination of co-formulated ivermectin and albendazole".  
-- **Sanger Excellence Fellowship**. To support postdoctoral fellow, Mona Suleiman, for 3 yrs. Role: Principal Investigator.  
+- **Sanger Excellence Fellowship**. To support postdoctoral fellow, Mona Suleiman, for 3 yrs. Role: Principal Investigator.  Amount: £218k/ 3 yrs
 Title: "Experimental evolution in the parasitic worm Strongyloides to map ivermectin drug resistance in the lab and field"
 
 `2020`  
@@ -364,7 +375,7 @@ Javier Gandasegui (Cardiff Univerity) (2021) - Master's thesis summer project
 Bioinformatics, Bioinformatics Advances, BMC Biotechnology, Frontiers Tropical Diseases, Genes, Genome Biology and Evolution, Genomics, GigaScience, International Journal of Parasitology, International Journal of Parasitology Drugs and Drug Resistance, Mitochondrial DNA Part B: Resources, Molecular Ecology Resources, Nature Communications, Nucleic Acid Research, Parasitology International, Parasites & Vectors, Parasitology Research, Pathogens, PLoS Neglected Tropical Diseases, PLoS One, PLoS Pathogens, Scientific Reports, Trends in Parasitology.
 
 ### Grant Referee
-Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and development), BBSRC, NERC, MRC, UKRI  
+Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and development), BBSRC, NERC, MRC, UKRI, Wellcome.    
 
 ### PhD thesis Referee
 `2024`
@@ -400,6 +411,6 @@ Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and 
 
 <!-- ### Footer
 
-Last updated: 5th September 2024 -->
+Last updated: 18th February 2025 -->
 
 
