@@ -170,7 +170,8 @@ Since 2019 (last 5 yrs): 35 publications; 2 first author; 10 senior author
 
 
 ## Research Support
-Total: ~£8 M GBP; ~£2.4 M as Principal Investigator, ~£5.6 M as Co-Investigator
+Total: ~£8 M GBP; ~£2.4 M as Principal Investigator, ~£5.6 M as Co-Investigator  
+
 `2025`
 - **UKRI Future Leaders Fellowship**. Role: Principal Investigator. Amount: £708k GBP / 3 yrs  
 Title: "Unravelling genotypic and phenotypic variation in helminth populations".
