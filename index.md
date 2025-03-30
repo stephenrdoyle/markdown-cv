@@ -61,10 +61,11 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 71 publications; 14 first author; 11 senior author  
-Since 2019 (last 5 yrs): 35 publications; 2 first author; 10 senior author  
+Total: 72 publications; 14 first author; 12 senior author  
+Since 2019 (last 5 yrs): 37 publications; 3 first author; 11 senior author  
 
 `2025`   
+- Papaiakovou M, Waeschenbach A, Anderson RM, Cools P,  Mekonnen Z, Littlewood DTJ, Cantacessi C, **DOYLE SR** (2025) [Enrichment of helminth mitochondrial genomes from faecal samples using hybridisation capture](https://www.biorxiv.org/content/10.1101/2025.02.24.639427v1). BioRxiv.
 - McIntyre J, Morrison A, Maitland K, Berger D, Price DRG, Dougan S, Grigoriadis D, Tracey A, Holroyd N, Bull K, Rose Vineer H, Glover MJ, Morgan ER, Nisbet AJ, McNeilly T, Bartley Y, Sargison N, Bartley D, Berriman M, Cotton J, Devaney E, Laing R, **DOYLE SR** (2025) [Chromosomal genome assembly resolves drug resistance loci in the parasitic nematode *Teladorsagia circumcincta*](https://doi.org/10.1371/journal.ppat.1012820). PLoS Pathogens  
 - Goulding D, Tolley C, Mkandawire TT, **DOYLE SR**, Hart E, Airs PM, Grencis RK, Berriman M, Duque-Correa MA (2025) [Hatching of whipworm eggs induced by bacterial contact is serine-protease dependent](https://doi.org/10.1371/journal.ppat.1012502). PLoS Pathogens
 - Wangwiwatsin A, Kulwong S, Phuyao C, Titapun A, Loilome E, Klanrit P, Namwat N, Sithithaworn P, **DOYLE SR**, Berriman M, Crellen T (2025) [The genome sequence of the liver fluke Opisthorchis viverrini (Poirier, 1886) Stiles & Hassall, 1896](https://doi.org/10.12688/wellcomeopenres.23535.1). Wellcome Open Research
@@ -231,9 +232,9 @@ Marina Papaiakovou, Univerisity of Cambridge (co-supervisor with Cinzia Cantaces
 Benedict Karani, University of Glasgow (co-supervisor with James Cotton, Roz Laing, Jennifer McIntyre, Fiona Kenyon) - (2023-2027)    
 
 `Other - indirect supervision/mentorship`   
-Jennifer McIntyre (Postdoctoral Research Associate, University of Glasgow) (2020-ongoing)    
-Shannan Summers (PhD candidate, London School of Hygeine and Tropical Medicine / Natural History Museum, London) - (2023-ongoing)    
-Rose Powers (PhD candidate, University of Sydney, Australia) (2023-ongoing)    
+Jennifer McIntyre (Postdoctoral Research Associate, University of Glasgow) (2020-2025)    
+Shannan Summers (PhD candidate, London School of Hygeine and Tropical Medicine / Natural History Museum, London) - (2023-2025)    
+Rose Powers (PhD candidate, University of Sydney, Australia) (2023-2025)    
 
 ### Previous mentorship  
 `PhD candidates - indirect supervision`  
@@ -299,6 +300,9 @@ Javier Gandasegui (Cardiff Univerity) (2021) - Master's thesis summer project
 - VLSCI NGS Informatics Retreat, Brighton, Australia  
 
 ### Conference talks / posters
+`2025`  
+- Joint Parasitology Meeting, Wurzburg, Germany (talk)   
+
 `2024`   
 - UK Strongyloides Meeting, Bath, UK (talk)   
 
@@ -379,6 +383,9 @@ Bioinformatics, Bioinformatics Advances, BMC Biotechnology, Frontiers Tropical D
 Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and development), BBSRC, NERC, MRC, UKRI, Wellcome.    
 
 ### PhD thesis Referee
+`2025`   
+- La Trobe University, Australia
+
 `2024`
 - University of Liverpool, UK
 
@@ -396,13 +403,15 @@ Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and 
 
 **3rd year Genetics Practical Unit Coordination**: administration the 3rd year practical course, supervising up to 80 students, delivery of practical material including lectures and tutorials.
 
+**Lecturing**: La Trobe University, Australia, University of Cambridge, UK
+
 ### Postgraduate
 
 **Course Lead Instructor, High-Resolution Melt Genotyping and Populations Genetics for NTDs**, Noguchi Memorial Institute for Medical Research, Accra, Ghana (2014)
 
 **Course Instructor, Working with Pathogen Genomes**, Wellcome Trust Advanced Courses: Hinxton (Jan 2016), Ho Chi Minh City, Vietnam (November 2017), Cape Town, South Africa (2018), Montevideo, Uruguay (2018; lead instructor), Hinxton, UK (2019), Asia (online 2021), Latin America (online 2022).
 
-**Course Instructor, Helminth Bioinformatics**, Wellcome Trust Advanced Courses: Accra, Ghana (2019), Asia (online 2021; lead instructor), Thailand (2023; lead instructor)
+**Course Instructor, Helminth Bioinformatics**, Wellcome Trust Advanced Courses: Accra, Ghana (2019), Asia (online 2021; lead instructor), Thailand (2023; lead instructor), Montevideo, Uruguay (2025; lead instructor).  
 
 **Course Instructor, Pathogen Genomics MSc**, The London School of Hygiene & Tropical Medicine, London, UK: April/May 2018, 2019, April 2020, 2021 (remote online teaching), April 2022, 2023.
 
@@ -412,6 +421,6 @@ Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and 
 
 <!-- ### Footer
 
-Last updated: 18th February 2025 -->
+Last updated: 30th March 2025 -->
 
 
