@@ -176,7 +176,10 @@ Total: ~£8 M GBP; ~£2.4 M as Principal Investigator, ~£5.6 M as Co-Investigat
 `2025`
 - **UKRI Future Leaders Fellowship**. Role: Principal Investigator. Amount: £708k GBP / 3 yrs  
 Title: "Unravelling genotypic and phenotypic variation in helminth populations".
-- **UKRI: Southeast Asia regional funding collaboration on infectious diseases**. Role: Co-Investigator. Amount: £983k (£86k to SRD/WSI). 
+- **UKRI: Southeast Asia regional funding collaboration on infectious diseases**. Role: Co-Investigator. Amount: £983k (£86k to SRD/WSI).
+Title: "Determining the Role of Mass Drug Administration in the Emergence of Anthelminthic Resistance of Soil-Transmitted Helminths in Southeast Asia (DREAM-SEA)"   
+- **BBSRC Flexible Talent Mobility Account (FTMA): Placement Call 2024**. Role: Principal Investigator. To support bioinformatician, Sam Dougan, for a 3 month placement. Amount: £11,832.60
+Title: "Unravelling host-parasite interactions during chronic whipworm infection at single-cell resolution".   
 
 `2024`
 - **Cambridge-Africa Alborada Trust**. Role: Principal Investigator. Amount: £19.9k GBP / 1.5 yrs
