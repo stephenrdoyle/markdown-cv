@@ -62,19 +62,19 @@ La Trobe University, Australia
 
 ## Publications  
 Total: 72 publications; 14 first author; 12 senior author  
-Since 2019 (last 5 yrs): 37 publications; 3 first author; 11 senior author  
+Since 2020 (last 5 yrs): 37 publications; 3 first author; 11 senior author  
 
 `2025`   
-- Papaiakovou M, Waeschenbach A, Anderson RM, Cools P,  Mekonnen Z, Littlewood DTJ, Cantacessi C, **DOYLE SR** (2025) [Enrichment of helminth mitochondrial genomes from faecal samples using hybridisation capture](https://www.biorxiv.org/content/10.1101/2025.02.24.639427v1). BioRxiv.
+- Papaiakovou M, Waeschenbach A, Ajibola O, Ajjampur SSR, Anderson RM, Bailey R, Chung JB, Cambra Pelleja M, Caro NR, Chaima D, Cimino RO, Cools P, Cossa A, Dunn J, Galagan S, Gandasegui J, Grau Pujol B, Houlder E, Ibikounle M, Jenkins TP, Kalua K, Kjetland EF, Krolewiecki AJ, Levecke B, Luty AJF, MacDonald A, Mandomando I, Manuel M, Martinez-Valladares M, Mejia R, Mekonnen Z, Messa Jr A, Mpairwe H, Muchisse O, Munoz J, Mwinzi P, Novela V, Odiere MR, Sacoor C, Walson JL, Williams SA, McManus SW, Littlewood DTJ, Cantacessi C, **DOYLE SR** (2025) [Global diversity of soil-transmitted helminths reveals population-biased genetic variation that impacts diagnostic targets](https://doi.org/10.1038/s41467-025-61687-0). Nature Communications  
+- Papaiakovou M, Waeschenbach A, Anderson RM, Cools P,  Mekonnen Z, Littlewood DTJ, Cantacessi C, **DOYLE SR** (2025) [Enrichment of helminth mitochondrial genomes from faecal samples using hybridisation capture](https://doi.org/10.1111/1755-0998.70005). Molecular Ecology Resources.
+- Power RI, Abdullah S, Walden HS, Verocai GG, Sanders TL, Luksovsky JL, Moorhead AR, Dzimianski MT, Foster JM, Michalski MLL, Rojas A, Chacon SC, Deak G, Mihalca AD, Danesi P, Papadopoulos E, Taweethavonsawat P, Buip DT, Ngoc AD, Sharma RSK, YW Ho Simon, **DOYLE SR**, Slapeta J (2025) [Population genomics reveals an ancient origin of heartworms in canids](https://doi.org/10.1101/2024.12.26.630432). BioRxiv. 
 - McIntyre J, Morrison A, Maitland K, Berger D, Price DRG, Dougan S, Grigoriadis D, Tracey A, Holroyd N, Bull K, Rose Vineer H, Glover MJ, Morgan ER, Nisbet AJ, McNeilly T, Bartley Y, Sargison N, Bartley D, Berriman M, Cotton J, Devaney E, Laing R, **DOYLE SR** (2025) [Chromosomal genome assembly resolves drug resistance loci in the parasitic nematode *Teladorsagia circumcincta*](https://doi.org/10.1371/journal.ppat.1012820). PLoS Pathogens  
 - Goulding D, Tolley C, Mkandawire TT, **DOYLE SR**, Hart E, Airs PM, Grencis RK, Berriman M, Duque-Correa MA (2025) [Hatching of whipworm eggs induced by bacterial contact is serine-protease dependent](https://doi.org/10.1371/journal.ppat.1012502). PLoS Pathogens
 - Wangwiwatsin A, Kulwong S, Phuyao C, Titapun A, Loilome E, Klanrit P, Namwat N, Sithithaworn P, **DOYLE SR**, Berriman M, Crellen T (2025) [The genome sequence of the liver fluke Opisthorchis viverrini (Poirier, 1886) Stiles & Hassall, 1896](https://doi.org/10.12688/wellcomeopenres.23535.1). Wellcome Open Research
   
 `2024`  
 - Buddenborg SK, **DOYLE SR** (2024) [Entering the spatial age of parasite genomics](https://www.cell.com/trends/parasitology/fulltext/S1471-4922(24)00349-0). Trends in Parasitology
-- Buddenborg SK, Morrison A, Fletcher AC, Kieninger MR, Ng BL, Maitland K, McIntyre J, Hart E, Bartley D, Duque-Correa MA, **DOYLE SR** (2024) [Optimisation of single-nuclei isolation and RNA sequencing of parasitic nematodes](https://doi.org/10.1101/2024.11.13.623282). BioRxiv
-- Power RI, Abdullah S, Walden HS, Verocai GG, Sanders TL, Luksovsky JL, Moorhead AR, Dzimianski MT, Foster JM, Michalski MLL, Rojas A, Chacon SC, Deak G, Mihalca AD, Danesi P, Papadopoulos E, Taweethavonsawat P, Buip DT, Ngoc AD, Sharma RSK, YW Ho Simon, **DOYLE SR**, Slapeta J [Population genomics reveals an ancient origin of heartworms in canids](https://doi.org/10.1101/2024.12.26.630432). BioRxiv.  
-- Papaiakovou M, Waeschenbach A, Ajibola O, Ajjampur SSR, Anderson RM, Bailey R, Chung JB, Cambra Pelleja M, Caro NR, Chaima D, Cimino RO, Cools P, Cossa A, Dunn J, Galagan S, Gandasegui J, Grau Pujol B, Houlder E, Ibikounle M, Jenkins TP, Kalua K, Kjetland EF, Krolewiecki AJ, Levecke B, Luty AJF, MacDonald A, Mandomando I, Manuel M, Martinez-Valladares M, Mejia R, Mekonnen Z, Messa Jr A, Mpairwe H, Muchisse O, Munoz J, Mwinzi P, Novela V, Odiere MR, Sacoor C, Walson JL, Williams SA, McManus SW, Littlewood DTJ, Cantacessi C, **DOYLE SR** (2024) [Global diversity of soil-transmitted helminths reveals population-biased genetic variation that impacts diagnostic targets](https://doi.org/10.1101/2024.09.23.614419). BioRxiv  
+- Buddenborg SK, Morrison A, Fletcher AC, Kieninger MR, Ng BL, Maitland K, McIntyre J, Hart E, Bartley D, Duque-Correa MA, **DOYLE SR** (2024) [Optimisation of single-nuclei isolation and RNA sequencing of parasitic nematodes](https://doi.org/10.1101/2024.11.13.623282). BioRxiv 
 - Gandasegui J, Grau-Pujol B, Novela V, Muchisse O, Cambra-Pellejà M, Cossa A, Jamine JC, Sacoor C, Brienen EAT, Catala-Moll F, van Lieshout L, Martínez-Valladares M, Paredes R, Muñoz J, **DOYLE SR** [Deep-amplicon sequencing of the complete beta-tubulin gene in *Trichuris trichiura* before and after albendazole treatment](https://doi.org/10.1016/j.ijpddr.2024.100570). International Journal for Parasitology: Drugs and Drug Resistance
 - Berger DJ, Park S-K, Crellen T, Vianney TJ, Kabatereine NB, Cotton JA, Sanya R, Elliot A, Tukahebwa EM, Adriko M, Standley CJ, Gouvras A, Kinunghi S, Haas H, Rabone M, Emery A, Lamberton PHL, Webster BL, Allan F, Buddenborg S, Berriman M, Marchant JS, **DOYLE SR**, Webster JP (2024) [Extensive transmission and variation in a functional receptor for praziquantel resistance in endemic *Schistosoma mansoni*](https://www.biorxiv.org/content/10.1101/2024.08.29.610291v2). BioRxiv
 - Power RI, **DOYLE SR**, Šlapeta J. (2024) [Whole genome amplification and sequencing of individual *Dirofilaria immitis* microfilariae](https://doi.org/10.1016/j.exppara.2024.108806). Experimental Parasitology
@@ -256,6 +256,9 @@ Javier Gandasegui (Cardiff Univerity) (2021) - Master's thesis summer project
 ## Presentations  
 ### Departmental/Invited Talks
 `2024`
+- Swiss Tropical And Public Health Institute, Switzerland
+
+`2024`
 - 24th Drug Design & Development Seminar (DDDS), Würzburg, Germany
 - Moredun Research Institute, Edinburgh, UK
 - University of Bath, Bath, UK
@@ -304,7 +307,8 @@ Javier Gandasegui (Cardiff Univerity) (2021) - Master's thesis summer project
 
 ### Conference talks / posters
 `2025`  
-- Joint Parasitology Meeting, Wurzburg, Germany (talk)   
+- Joint Parasitology Meeting, Wurzburg, Germany (talk x2)
+- Congreso Nacional de Biociencias 2025, Montevideo, Uruguay (Invited keynote speaker)  
 
 `2024`   
 - UK Strongyloides Meeting, Bath, UK (talk)   
@@ -424,6 +428,6 @@ Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and 
 
 <!-- ### Footer
 
-Last updated: 30th March 2025 -->
+Last updated: 11th July 2025 -->
 
 
