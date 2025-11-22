@@ -61,11 +61,12 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 73 publications; 14 first author; 12 senior author  
-Since 2020 (last 5 yrs): 38 publications; 3 first author; 11 senior author  
-Google scholar. Citations: 2975; h-index: 28; i10-index: 50  (13th October 2025) 
+Total: 74 publications; 14 first author; 12 senior author  
+Since 2020 (last 5 yrs): 39 publications; 3 first author; 11 senior author  
+Google scholar. Citations: 3030; h-index: 28; i10-index: 52  (22nd Nov 2025) 
 
 `2025`   
+- Šlapeta J, Krücken J, Rojas A, Chambers A, Melville LA, Martínez-Valladares M, Canton C, Francis EK, Zahid O, Albuquerque ACA, Bartley DJ, Bassetto CC, Byrne O, Colella V, Costa-Junior LM, **DOYLE SR**, Evans M, Ghafar A, Godoy P, Hayashi N, Gilleard JS (2025) [Ten simple rules for implementing deep amplicon sequencing in parasitology](https://doi.org/10.1016/j.ijpara.2025.11.003). International Journal for Parasitology.  
 - Rohr CM, Park S-K, Martins KA, Anderson TJC, Berger DJ, Berriman M, Buddenborg SK, Bustinduy AL, Chevalier FD, Cotton JA, Crellen T, **DOYLE SR**, Emery AM, Kincaid-Smith J, Kinung'hi S, Lamberton PHL, Le Clech W, Ndombi E, Pennance T, Rowel C, Summers SS, Tushabe JV, Walker M, Webster BL, Webster JP, Wilson S, Marchant JS (2025) [TRPtracker: a community database for monitoring praziquantel sensitivity at TRPMPZQ variants](https://doi.org/10.1101/2025.08.27.671753). BioRxiv   
 - Papaiakovou M, Waeschenbach A, Ajibola O, Ajjampur SSR, Anderson RM, Bailey R, Chung JB, Cambra Pelleja M, Caro NR, Chaima D, Cimino RO, Cools P, Cossa A, Dunn J, Galagan S, Gandasegui J, Grau Pujol B, Houlder E, Ibikounle M, Jenkins TP, Kalua K, Kjetland EF, Krolewiecki AJ, Levecke B, Luty AJF, MacDonald A, Mandomando I, Manuel M, Martinez-Valladares M, Mejia R, Mekonnen Z, Messa Jr A, Mpairwe H, Muchisse O, Munoz J, Mwinzi P, Novela V, Odiere MR, Sacoor C, Walson JL, Williams SA, McManus SW, Littlewood DTJ, Cantacessi C, **DOYLE SR** (2025) [Global diversity of soil-transmitted helminths reveals population-biased genetic variation that impacts diagnostic targets](https://doi.org/10.1038/s41467-025-61687-0). Nature Communications  
 - Papaiakovou M, Waeschenbach A, Anderson RM, Cools P,  Mekonnen Z, Littlewood DTJ, Cantacessi C, **DOYLE SR** (2025) [Enrichment of helminth mitochondrial genomes from faecal samples using hybridisation capture](https://doi.org/10.1111/1755-0998.70005). Molecular Ecology Resources.
@@ -234,7 +235,6 @@ Javier Gandasegui (2024-current)
 
 `PhD candidates - direct supervision/mentorship`  
 Enric Cata Socias, University of Cambridge (co-supervisor with Maria Duque-Correa) - (2025-current)
-Marina Papaiakovou, University of Cambridge (co-supervisor with Cinzia Cantacessi) - (2022-current; submitted Sept 2025)   
 Benedict Karani, University of Glasgow (co-supervisor with James Cotton, Roz Laing, Jennifer McIntyre, Fiona Kenyon) - (2023-current; due to submit 2027)    
 
 `Other - indirect supervision/mentorship`   
@@ -247,9 +247,12 @@ Shannan Summers (PhD candidate, London School of Hygiene and Tropical Medicine /
 Rose Powers (PhD candidate, University of Sydney, Australia) (2023-2025)    
 
 ### Previous mentorship  
+`PhD candidates - direct supervision`
+Marina Papaiakovou, University of Cambridge (co-supervisor with Cinzia Cantacessi) - (2022-2025) 
+
 `PhD candidates - indirect supervision`  
 Duncan Berger (Wellcome Sanger Institute)   
-Julia Rivero (Universidad de Sevilla, Spain) (2022) - 3 month stay at Sanger  
+Julia Rivero (Universidad de Sevilla, Spain) (2022) - 3-month stay at Sanger  
 Kirsty McCann (La Trobe University, Australia) (2015-2021)  
 Neha Sirwani (La Trobe University) (2013-2020)  
 Sam Armoo (La Trobe University, Australia) (2012-2017)  
@@ -439,6 +442,6 @@ Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and 
 
 <!-- ### Footer
 
-Last updated: 11th July 2025 -->
+Last updated: 22nd November 2025 -->
 
 
