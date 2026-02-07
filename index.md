@@ -14,7 +14,7 @@ UKRI Future Leaders Fellow, Group Leader @ Wellcome Sanger Institute
 </div>
 
 ## Overview
-I am a molecular and computational biologist focused on understanding the evolutionary biology of parasitic worms that infect humans and animals. I lead a multidisciplinary research group where we use population-wide to single-cell resolution genomic approaches to understand the genetic mechanisms and phenotypic traits underpinning parasite adaptation and persistence. Using a combination of *in vivo* models and parasites sampled from endemic countries around the world, we measure and analyse helminth diversity across space and time, build genomic resources to support global parasitology communities, and develop genetic approaches to diagnose and surveil helminths, with the ultimate aim to inform the sustainable and effective control of helminths to improve human and animal health.
+I am a molecular and computational biologist focused on understanding the evolutionary biology of parasitic worms that infect humans and animals. I lead a multidisciplinary research group that uses population-wide to single-cell-resolution genomic approaches to understand the genetic mechanisms and phenotypic traits underpinning parasite adaptation and persistence. Using a combination of *in vivo* models and parasites sampled from endemic countries around the world, we measure and analyse helminth diversity across space and time, build genomic resources to support global parasitology communities, and develop genetic approaches to diagnose and surveil helminths, with the ultimate aim to inform the sustainable and effective control of helminths to improve human and animal health.
 
 ## Employment
 `2020 - now`
@@ -61,16 +61,18 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 74 publications; 14 first author; 12 senior author  
-Since 2020 (last 5 yrs): 39 publications; 3 first author; 11 senior author  
-Google scholar. Citations: 3030; h-index: 28; i10-index: 52  (22nd Nov 2025) 
+Total: 75 publications; 14 first author; 13 senior author  
+Since 2021 (last 5 yrs): 36 publications; 2 first author; 12 senior author  
+Google Scholar. Citations: 3198; h-index: 28; i10-index: 56  (7th Feb 2026) 
+
+`2026`   
+- Power RI, Abdullah S, Walden HS, Verocai GG, Sanders TL, Luksovsky JL, Moorhead AR, Dzimianski MT, Foster JM, Michalski MLL, Rojas A, Chacon SC, Deak G, Mihalca AD, Danesi P, Papadopoulos E, Taweethavonsawat P, Buip DT, Ngoc AD, Sharma RSK, YW Ho Simon, **DOYLE SR** +, Slapeta J + (2026) [Population genomics reveals an ancient origin of heartworms in canids](https://doi.org/10.1038/s42003-025-09250-x). Communications Biology. + co-senior authors
 
 `2025`   
 - Šlapeta J, Krücken J, Rojas A, Chambers A, Melville LA, Martínez-Valladares M, Canton C, Francis EK, Zahid O, Albuquerque ACA, Bartley DJ, Bassetto CC, Byrne O, Colella V, Costa-Junior LM, **DOYLE SR**, Evans M, Ghafar A, Godoy P, Hayashi N, Gilleard JS (2025) [Ten simple rules for implementing deep amplicon sequencing in parasitology](https://doi.org/10.1016/j.ijpara.2025.11.003). International Journal for Parasitology.  
 - Rohr CM, Park S-K, Martins KA, Anderson TJC, Berger DJ, Berriman M, Buddenborg SK, Bustinduy AL, Chevalier FD, Cotton JA, Crellen T, **DOYLE SR**, Emery AM, Kincaid-Smith J, Kinung'hi S, Lamberton PHL, Le Clech W, Ndombi E, Pennance T, Rowel C, Summers SS, Tushabe JV, Walker M, Webster BL, Webster JP, Wilson S, Marchant JS (2025) [TRPtracker: a community database for monitoring praziquantel sensitivity at TRPMPZQ variants](https://doi.org/10.1101/2025.08.27.671753). BioRxiv   
 - Papaiakovou M, Waeschenbach A, Ajibola O, Ajjampur SSR, Anderson RM, Bailey R, Chung JB, Cambra Pelleja M, Caro NR, Chaima D, Cimino RO, Cools P, Cossa A, Dunn J, Galagan S, Gandasegui J, Grau Pujol B, Houlder E, Ibikounle M, Jenkins TP, Kalua K, Kjetland EF, Krolewiecki AJ, Levecke B, Luty AJF, MacDonald A, Mandomando I, Manuel M, Martinez-Valladares M, Mejia R, Mekonnen Z, Messa Jr A, Mpairwe H, Muchisse O, Munoz J, Mwinzi P, Novela V, Odiere MR, Sacoor C, Walson JL, Williams SA, McManus SW, Littlewood DTJ, Cantacessi C, **DOYLE SR** (2025) [Global diversity of soil-transmitted helminths reveals population-biased genetic variation that impacts diagnostic targets](https://doi.org/10.1038/s41467-025-61687-0). Nature Communications  
 - Papaiakovou M, Waeschenbach A, Anderson RM, Cools P,  Mekonnen Z, Littlewood DTJ, Cantacessi C, **DOYLE SR** (2025) [Enrichment of helminth mitochondrial genomes from faecal samples using hybridisation capture](https://doi.org/10.1111/1755-0998.70005). Molecular Ecology Resources.
-- Power RI, Abdullah S, Walden HS, Verocai GG, Sanders TL, Luksovsky JL, Moorhead AR, Dzimianski MT, Foster JM, Michalski MLL, Rojas A, Chacon SC, Deak G, Mihalca AD, Danesi P, Papadopoulos E, Taweethavonsawat P, Buip DT, Ngoc AD, Sharma RSK, YW Ho Simon, **DOYLE SR** +, Slapeta J + (2025) [Population genomics reveals an ancient origin of heartworms in canids](https://doi.org/10.1101/2024.12.26.630432). BioRxiv. + co-senior authors
 - McIntyre J, Morrison A, Maitland K, Berger D, Price DRG, Dougan S, Grigoriadis D, Tracey A, Holroyd N, Bull K, Rose Vineer H, Glover MJ, Morgan ER, Nisbet AJ, McNeilly T, Bartley Y, Sargison N, Bartley D, Berriman M, Cotton J, Devaney E, Laing R, **DOYLE SR** (2025) [Chromosomal genome assembly resolves drug resistance loci in the parasitic nematode *Teladorsagia circumcincta*](https://doi.org/10.1371/journal.ppat.1012820). PLoS Pathogens  
 - Goulding D, Tolley C, Mkandawire TT, **DOYLE SR**, Hart E, Airs PM, Grencis RK, Berriman M, Duque-Correa MA (2025) [Hatching of whipworm eggs induced by bacterial contact is serine-protease dependent](https://doi.org/10.1371/journal.ppat.1012502). PLoS Pathogens
 - Wangwiwatsin A, Kulwong S, Phuyao C, Titapun A, Loilome E, Klanrit P, Namwat N, Sithithaworn P, **DOYLE SR**, Berriman M, Crellen T (2025) [The genome sequence of the liver fluke Opisthorchis viverrini (Poirier, 1886) Stiles & Hassall, 1896](https://doi.org/10.12688/wellcomeopenres.23535.1). Wellcome Open Research
@@ -166,7 +168,7 @@ Google scholar. Citations: 3030; h-index: 28; i10-index: 52  (22nd Nov 2025)
 - Chan CK, Hart AH, Lister AN, **DOYLE SR** (2011) [Learning styles of 3rd year genetics students and their affection and perception of effectiveness of a range of instructional modes]. ACSME Proceedings 2011 Teaching for Diversity Challenges and Strategies.  
   
 `2008`  
-- **DOYLE SR** and Chan CK (2008) [Mitochondrial gene therapy an evaluation of strategies for the treatment of mitochondrial DNA disorders](https://doi.org/10.1089/hum.2008.090). Hum Gene Ther. Figure 2 was selected as the cover artwork for the print issue.  
+- **DOYLE SR** and Chan CK (2008) [Mitochondrial gene therapy - an evaluation of strategies for the treatment of mitochondrial DNA disorders](https://doi.org/10.1089/hum.2008.090). Hum Gene Ther. Figure 2 was selected as the cover artwork for the print issue.  
   
 `2007`  
 - **DOYLE SR** and Chan CK, (2007). [Differential intracellular distribution of DNA complexed with polyethylenimine PEI and PEI-polyarginine PTD influences exogenous gene expression within live COS-7 cells](https://doi.org/10.1186/1479-0556-5-11). Genet Vaccines Ther.  
@@ -181,7 +183,7 @@ Total: ~£8 M GBP; ~£2.4 M as Principal Investigator, ~£5.6 M as Co-Investigat
 Title: "Unravelling genotypic and phenotypic variation in helminth populations".
 - **UKRI: Southeast Asia regional funding collaboration on infectious diseases**. Role: Co-Investigator. Amount: £983k (£86k to SRD/WSI).
 Title: "Determining the Role of Mass Drug Administration in the Emergence of Anthelminthic Resistance of Soil-Transmitted Helminths in Southeast Asia (DREAM-SEA)"   
-- **BBSRC Flexible Talent Mobility Account (FTMA): Placement Call 2024**. Role: Principal Investigator. To support bioinformatician, Sam Dougan, for a 3 month placement. Amount: £11,832.60
+- **BBSRC Flexible Talent Mobility Account (FTMA): Placement Call 2024**. Role: Principal Investigator. To support bioinformatician Sam Dougan for a 3-month placement. Amount: £11,832.60
 Title: "Unravelling host-parasite interactions during chronic whipworm infection at single-cell resolution".   
 
 `2024`
@@ -199,7 +201,7 @@ Title: "Experimental evolution in the parasitic worm Strongyloides to map iverme
 Title: "The generation and maintenance of genetic novelty in parasitic helminths".  
 
 `2014`  
-- **WHO/TDR Research on the Vulnerability of Preventative Chemotherapy of Helminth Infections to Emergence of Drug Resistance** (three proposals; Grant and Doyle in collaboration with Osei-Atweneboana, M (Ghana), and Adjami, A (Burkina Faso)). Role: Co-Investigator.  
+- **WHO/TDR Research on the Vulnerability of Preventive Chemotherapy of Helminth Infections to Emergence of Drug Resistance** (three proposals; Grant and Doyle in collaboration with Osei-Atweneboana, M (Ghana), and Adjami, A (Burkina Faso)). Role: Co-Investigator.  
   - CARIRS-markers: “Development of diagnostic genetic markers to detect sub-optimal response to ivermectin treatment” (Amount: $438,000 USD; Doyle lead writer)  
   - CARIRS-mission: “Developing molecular tools to define Onchocerca volvulus transmission zones and estimate transmission risks between zones” (Amount: $224,000 USD)  
   - TDResist: “A population genetic model for the selection and transmission of ivermectin sub-optimal response genotypes” (Amount: $87,000 USD)  
@@ -229,9 +231,9 @@ Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elega
 ## Mentorship (current lab, direct/indirect mentorship)  
 ### Current lab  
 `Postdoctoral Research Associates`    
-Sarah Buddenborg (2022-current)  
 Mona Suleiman (2023-current) (Sanger Excellence Fellow)  
 Javier Gandasegui (2024-current)   
+Marina Papaiakovou (2026-current)   
 
 `PhD candidates - direct supervision/mentorship`  
 Enric Cata Socias, University of Cambridge (co-supervisor with Maria Duque-Correa) - (2025-current)
@@ -242,13 +244,17 @@ Modupeh Betts (Postdoctoral Research Associate, University of Liverpool) (2025-c
 Augusto Messa Jr (PhD Candidate, CISM, Mozambique) (2025-current)   
 Robin Lioutaud (PhD Candidate, INRAE, Toulouse, France) (2024-current)   
 Omer Bay (Lecturer, Abdullah Gül University, Türkiye) (2024-current)   
-Jennifer McIntyre (Postdoctoral Research Associate, University of Glasgow) (2020-2025)    
-Shannan Summers (PhD candidate, London School of Hygiene and Tropical Medicine / Natural History Museum, London) - (2023-2025)    
+Jennifer McIntyre (Postdoctoral Research Associate, University of Glasgow) (2020-current)     
 Rose Powers (PhD candidate, University of Sydney, Australia) (2023-2025)    
 
 ### Previous mentorship  
+`Postdoctoral Research Associates` 
+Sarah Buddenborg (2022-2025) - now Assistant Professor at McGill University, Canada
+
 `PhD candidates - direct supervision`
 Marina Papaiakovou, University of Cambridge (co-supervisor with Cinzia Cantacessi) - (2022-2025) 
+Jennifer McIntyre, University of Glasgow (2020-2025)    
+Shannan Summers, London School of Hygiene and Tropical Medicine / Natural History Museum, London - (2023-2025)   
 
 `PhD candidates - indirect supervision`  
 Duncan Berger (Wellcome Sanger Institute)   
@@ -264,8 +270,8 @@ Javier Gandasegui (Cardiff University) (2021) - Master's thesis summer project
 
 
 ## Presentations  
-### Departmental/Invited Talks
-`2025`
+### Departmental/Invited Talks   
+`2025`   
 - Swiss Tropical And Public Health Institute, Switzerland
 
 `2024`
@@ -315,7 +321,12 @@ Javier Gandasegui (Cardiff University) (2021) - Master's thesis summer project
 - Thomson Reuters System Biology Seminar Series Winter 2011, La Trobe University  
 - VLSCI NGS Informatics Retreat, Brighton, Australia  
 
-### Conference talks / posters
+### Conference talks/posters
+`2026`     
+- TZR symposium, Berlin, Germany (invited speaker)
+- Royal Society meeting "Exploiting nematode genomes to illustrate parasite biology", Liverpool, UK (invited speaker)
+- EMBO meeting "Evolving together: from genomics to biological interactions", Taiwan (invited speaker)   
+
 `2025`  
 - World Association for the Advancement of Veterinary Parasitology (WAAVP), Curitiba, Brazil (Invited plenary speaker)
 - Vector, Pest, Parasites meeting, Cambridge, UK (Invited speaker)
@@ -365,7 +376,11 @@ Javier Gandasegui (Cardiff University) (2021) - Master's thesis summer project
 `2008`
 - 4th Australasian Gene Therapy Society Meeting, Melbourne, Australia
 
-## Outreach / media
+## Outreach/media
+`2026`      
+- Promotional - [Chill out – there are more than ice packs in our lab freezers](https://sangerinstitute.blog/2026/02/03/chill-out-there-are-more-than-ice-packs-in-our-lab-freezers/)
+- Promotional [Ways Sanger is applying spatial transcriptomics to our science](https://sangerinstitute.blog/2026/01/27/ways-sanger-is-applying-spatial-transcriptomics-to-our-science/)
+
 `2024`   
 - Promotional - [Bringing innovation to intestinal worm treatment - STOP2030 project](https://www.youtube.com/watch?v=7khmmuMyEnQ)
 
@@ -399,7 +414,7 @@ Javier Gandasegui (Cardiff University) (2021) - Master's thesis summer project
 Bioinformatics, Bioinformatics Advances, BMC Biotechnology, Frontiers Tropical Diseases, Genes, Genome Biology and Evolution, Genomics, GigaScience, International Journal of Parasitology, International Journal of Parasitology Drugs and Drug Resistance, Mitochondrial DNA Part B: Resources, Molecular Ecology Resources, Nature Communications, Nucleic Acid Research, Parasitology International, Parasites & Vectors, Parasitology Research, Pathogens, PLoS Neglected Tropical Diseases, PLoS One, PLoS Pathogens, Scientific Reports, Trends in Parasitology.
 
 ### Grant Referee
-Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and development), BBSRC, NERC, MRC, UKRI, Wellcome.    
+Isaac Newton Trust, ZonMw (the Netherlands Organisation for Health Research and Development), BBSRC, NERC, MRC, UKRI, Wellcome.    
 
 ### PhD thesis Referee
 `2025`   
@@ -420,15 +435,15 @@ Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and 
 
 **Head Practical Demonstrator**: delivery of pre-lab lectures and tutorials, supervision of 80-150 students and management of sessional demonstrators
 
-**Practical design/writing**: development of new, and, updating of existing practical material, redevelopment of practical manuals and assessment guidelines.
+**Practical design/writing**: development of new, and updating of existing practical material, redevelopment of practical manuals and assessment guidelines.
 
-**3rd year Genetics Practical Unit Coordination**: administration the 3rd year practical course, supervising up to 80 students, delivery of practical material including lectures and tutorials.
+**3rd year Genetics Practical Unit Coordination**: administration of the 3rd year practical course, supervising up to 80 students, delivery of practical material including lectures and tutorials.
 
 **Lecturing**: La Trobe University, Australia, University of Cambridge, UK
 
 ### Postgraduate
 
-**Course Lead Instructor, High-Resolution Melt Genotyping and Populations Genetics for NTDs**, Noguchi Memorial Institute for Medical Research, Accra, Ghana (2014)
+**Course Lead Instructor, High-Resolution Melt Genotyping and Population Genetics for NTDs**, Noguchi Memorial Institute for Medical Research, Accra, Ghana (2014)
 
 **Course Instructor, Working with Pathogen Genomes**, Wellcome Trust Advanced Courses: Hinxton (Jan 2016), Ho Chi Minh City, Vietnam (November 2017), Cape Town, South Africa (2018), Montevideo, Uruguay (2018; lead instructor), Hinxton, UK (2019), Asia (online 2021), Latin America (online 2022).
 
@@ -442,6 +457,6 @@ Isaac Newton Trust, ZonMw (The Netherlands organisation for health research and 
 
 <!-- ### Footer
 
-Last updated: 22nd November 2025 -->
+Last updated: 7th February 2026 -->
 
 
