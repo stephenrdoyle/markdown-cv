@@ -61,16 +61,22 @@ La Trobe University, Australia
 
 
 ## Publications  
-Total: 75 publications; 14 first author; 13 senior author  
-Since 2021 (last 5 yrs): 36 publications; 2 first author; 12 senior author  
-Google Scholar. Citations: 3198; h-index: 28; i10-index: 56  (7th Feb 2026) 
+Total: 80 publications; 14 first author; 14 senior author  
+Since 2021 (last 5 yrs): 41 publications; 2 first author; 13 senior author  
+Google Scholar. Citations: 3638; h-index: 31; i10-index: 60  (11th Oct 2026) 
 
 `2026`   
+- Novela V, Messa A, Fleitas PE, Grau-Pujol B, Gandasegui J, Sacoor C, Cossa A, Muchisse O, Jamine JC, Martinez-Valladares M, Munguambe K, Mandomando I, **DOYLE SR**, Muñoz J (2026) [Soil-transmitted helminth reinfection after anthelmintic treatment in schools with improved versus unimproved WASH infrastructure in Mozambique: a prospective cohort study](https://doi.org/10.64898/2026.09.02.26362032). medRxiv
+- WORMS-SEA Consortium (incl. **DOYLE SR**) (2026) [Ambient temperature storage of individual parasitic nematode larvae for whole genome sequencing](https://doi.org/10.1371/journal.pntd.0014363). PLoS NTD
+- Betous R, Lioutaud R, Petermann J, Jouffroy S, Jacquiet P, Guchen E, Courtot E, Bordes L, Guegnard F, Salle G, **DOYLE SR**, Lespine A (2026) [Sex-biased transcriptional rewiring of neuronal circuits associated with eprinomectin resistance in *Haemonchus contortus*](https://doi.org/10.64898/2026.07.20.739568). BioRxiv
+- Berger DJ, Park S-K, Crellen T, Vianney TJ, Kabatereine NB, Cotton JA, Sanya R, Elliott A, Tukahebwa EM, Adriko M, Standley CJ, Gouvras A, Kinung'hi S, Rabone M, Emery A, Lamberton PHL, Webster BL, Allan F, Buddenborg S, Berriman M +, Marchant JS +, **DOYLE SR** +, Webster JP + (2026) [Extensive parasite transmission and variation in a functional receptor associated with drug resistance in endemic *Schistosoma mansoni*](https://doi.org/10.1126/sciadv.adt3721). Science Advances. + co-senior authors
+- Stevens L, **DOYLE SR** (2026) [Sequencing parasite genomes, one worm at a time](https://doi.org/10.1016/j.pt.2026.06.006). Trends in Parasitology
+- Rohr CM, Park S-K, Aguiar-Martins K, Anderson TJC, Berger DJ, Berriman M, Buddenborg SK, Bustinduy AL, Chevalier FD, Cotton JA, Crellen T, **DOYLE SR**, Emery AM, Kincaid-Smith J, Kinung'hi S, Lamberton PHL, Le Clec'h W, Ndombi E, Pennance T, Rowel C, Summers SS, Tushabe JV, Walker M, Webster BL, Webster JP, Wilson S, Marchant JS (2026) [TRPtracker: a community database for monitoring praziquantel sensitivity at TRPM<sub>PZQ</sub> variants](https://doi.org/10.1016/j.ijpddr.2026.100639). International Journal for Parasitology: Drugs and Drug Resistance
+- Tran D, Tolley C, Morris T, Hart E, Berriman M, **DOYLE SR**, Duque-Correa MA (2026) [Recapitulating whipworm development *in vitro* using caecaloids](https://doi.org/10.64898/2026.03.16.712207). BioRxiv
 - Power RI, Abdullah S, Walden HS, Verocai GG, Sanders TL, Luksovsky JL, Moorhead AR, Dzimianski MT, Foster JM, Michalski MLL, Rojas A, Chacon SC, Deak G, Mihalca AD, Danesi P, Papadopoulos E, Taweethavonsawat P, Buip DT, Ngoc AD, Sharma RSK, YW Ho Simon, **DOYLE SR** +, Slapeta J + (2026) [Population genomics reveals an ancient origin of heartworms in canids](https://doi.org/10.1038/s42003-025-09250-x). Communications Biology. + co-senior authors
 
 `2025`   
 - Šlapeta J, Krücken J, Rojas A, Chambers A, Melville LA, Martínez-Valladares M, Canton C, Francis EK, Zahid O, Albuquerque ACA, Bartley DJ, Bassetto CC, Byrne O, Colella V, Costa-Junior LM, **DOYLE SR**, Evans M, Ghafar A, Godoy P, Hayashi N, Gilleard JS (2025) [Ten simple rules for implementing deep amplicon sequencing in parasitology](https://doi.org/10.1016/j.ijpara.2025.11.003). International Journal for Parasitology.  
-- Rohr CM, Park S-K, Martins KA, Anderson TJC, Berger DJ, Berriman M, Buddenborg SK, Bustinduy AL, Chevalier FD, Cotton JA, Crellen T, **DOYLE SR**, Emery AM, Kincaid-Smith J, Kinung'hi S, Lamberton PHL, Le Clech W, Ndombi E, Pennance T, Rowel C, Summers SS, Tushabe JV, Walker M, Webster BL, Webster JP, Wilson S, Marchant JS (2025) [TRPtracker: a community database for monitoring praziquantel sensitivity at TRPMPZQ variants](https://doi.org/10.1101/2025.08.27.671753). BioRxiv   
 - Papaiakovou M, Waeschenbach A, Ajibola O, Ajjampur SSR, Anderson RM, Bailey R, Chung JB, Cambra Pelleja M, Caro NR, Chaima D, Cimino RO, Cools P, Cossa A, Dunn J, Galagan S, Gandasegui J, Grau Pujol B, Houlder E, Ibikounle M, Jenkins TP, Kalua K, Kjetland EF, Krolewiecki AJ, Levecke B, Luty AJF, MacDonald A, Mandomando I, Manuel M, Martinez-Valladares M, Mejia R, Mekonnen Z, Messa Jr A, Mpairwe H, Muchisse O, Munoz J, Mwinzi P, Novela V, Odiere MR, Sacoor C, Walson JL, Williams SA, McManus SW, Littlewood DTJ, Cantacessi C, **DOYLE SR** (2025) [Global diversity of soil-transmitted helminths reveals population-biased genetic variation that impacts diagnostic targets](https://doi.org/10.1038/s41467-025-61687-0). Nature Communications  
 - Papaiakovou M, Waeschenbach A, Anderson RM, Cools P,  Mekonnen Z, Littlewood DTJ, Cantacessi C, **DOYLE SR** (2025) [Enrichment of helminth mitochondrial genomes from faecal samples using hybridisation capture](https://doi.org/10.1111/1755-0998.70005). Molecular Ecology Resources.
 - McIntyre J, Morrison A, Maitland K, Berger D, Price DRG, Dougan S, Grigoriadis D, Tracey A, Holroyd N, Bull K, Rose Vineer H, Glover MJ, Morgan ER, Nisbet AJ, McNeilly T, Bartley Y, Sargison N, Bartley D, Berriman M, Cotton J, Devaney E, Laing R, **DOYLE SR** (2025) [Chromosomal genome assembly resolves drug resistance loci in the parasitic nematode *Teladorsagia circumcincta*](https://doi.org/10.1371/journal.ppat.1012820). PLoS Pathogens  
@@ -80,8 +86,8 @@ Google Scholar. Citations: 3198; h-index: 28; i10-index: 56  (7th Feb 2026)
   
 `2024`  
 - Buddenborg SK, Morrison A, Fletcher AC, Kieninger MR, Ng BL, Maitland K, McIntyre J, Hart E, Bartley D, Duque-Correa MA, **DOYLE SR** (2024) [Optimisation of single-nuclei isolation and RNA sequencing of parasitic nematodes](https://doi.org/10.1101/2024.11.13.623282). BioRxiv 
-- Gandasegui J, Grau-Pujol B, Novela V, Muchisse O, Cambra-Pellejà M, Cossa A, Jamine JC, Sacoor C, Brienen EAT, Catala-Moll F, van Lieshout L, Martínez-Valladares M, Paredes R, Muñoz J, **DOYLE SR** [Deep-amplicon sequencing of the complete beta-tubulin gene in *Trichuris trichiura* before and after albendazole treatment](https://doi.org/10.1016/j.ijpddr.2024.100570). International Journal for Parasitology: Drugs and Drug Resistance
-- Berger DJ, Park S-K, Crellen T, Vianney TJ, Kabatereine NB, Cotton JA, Sanya R, Elliot A, Tukahebwa EM, Adriko M, Standley CJ, Gouvras A, Kinunghi S, Haas H, Rabone M, Emery A, Lamberton PHL, Webster BL, Allan F, Buddenborg S, Berriman M +, Marchant JS +, **DOYLE SR** +, Webster JP + (2024) [Extensive transmission and variation in a functional receptor for praziquantel resistance in endemic *Schistosoma mansoni*](https://www.biorxiv.org/content/10.1101/2024.08.29.610291v2). BioRxiv. + co-senior authors
+- Gandasegui J, Grau-Pujol B, Novela V, Muchisse O, Cambra-Pellejà M, Cossa A, Jamine JC, Sacoor C, Brienen EAT, Catala-Moll F, van Lieshout L, Martínez-Valladares M, Paredes R, Muñoz J, **DOYLE SR** (2024) [Deep-amplicon sequencing of the complete beta-tubulin gene in *Trichuris trichiura* before and after albendazole treatment](https://doi.org/10.1016/j.ijpddr.2024.100570). International Journal for Parasitology: Drugs and Drug Resistance
+- Attenborough T, Rawlinson KA, Diaz Soria CL, Ambridge K, Sankaranarayanan G, Graham J, Cotton JA, **DOYLE SR**, Rinaldi G, Berriman M (2024) [A single-cell atlas of the miracidium larva of *Schistosoma mansoni* reveals cell types, developmental pathways, and tissue architecture](https://doi.org/10.7554/eLife.95628). eLife
 - Power RI, **DOYLE SR**, Šlapeta J. (2024) [Whole genome amplification and sequencing of individual *Dirofilaria immitis* microfilariae](https://doi.org/10.1016/j.exppara.2024.108806). Experimental Parasitology
 - Brann T, Beltramini A, Chaparro C, Berriman M, **DOYLE SR**, Protasio A. (2024) [Subtelomeric plasticity contributes to gene family expansion in the human parasitic flatworm *Schistosoma mansoni*](https://doi.org/10.1186/s12864-024-10032-8). BMC Genomics  
 - Gandasegui J, Power RI, Curry E, Lau DC-W, O’Neill CM, Wolstenholme A, Prichard R, Šlapeta J, **DOYLE SR** (2024) [Genome structure and population genomics of the canine heartworm *Dirofilaria immitis*](https://doi.org/10.1016/j.ijpara.2023.07.006). International Journal for Parasitology    
@@ -93,7 +99,6 @@ Google Scholar. Citations: 3198; h-index: 28; i10-index: 56  (7th Feb 2026)
 `2023`
 - Buddenborg SK, Lu Z, Sankaranarayanan G, **DOYLE SR**, Berriman M. [The stage-and sex-specific transcriptome of the human parasite *Schistosoma mansoni*](https://doi.org/10.1038/s41597-023-02674-2). Scientific Data. [Data exploration tool of Schisto lifecycle](https://lifecycle.schisto.xyz/)  
 - Roura A, **DOYLE SR**, Castro-Bugallo A, Gonzalez AF, Strugnell JM. [Trophic ecology of Octopus vulgaris paralarvae along the Iberian Canary current eastern boundary upwelling system](https://doi.org/10.1038/s41598-023-35206-4). Scientific Reports. 
-- Attenborough T, Rawlinson KA, Diaz Soria CL, Ambridge K, Sankaranarayanan G, Graham J, **DOYLE SR**, Rinaldi G, Berriman M (2023) [A single-cell atlas of the free-living miracidium larva of *Schistosoma mansoni*](https://doi.org/10.1101/2023.03.27.533868). BioRxiv.  
 - Papaiakovou M, Fraija-Fernández N, James K, Briscoe AG, Hall A, Jenkins TP, Dunn J, Levecke B, Mekonnen Z, Cools P, **DOYLE SR**, Cantacessi C, Littlewood DTJ (2023) [Evaluation of genome skimming to detect and characterise human and livestock helminths](https://doi.org/10.1016/j.ijpara.2022.12.002). International Journal for Parasitology. Cover art selected for this issue.
   
 
@@ -103,12 +108,12 @@ Google Scholar. Citations: 3198; h-index: 28; i10-index: 56  (7th Feb 2026)
 - **DOYLE SR** (2022) [Improving helminth genome resources in the post-genomic era](https://doi.org/10.1016/j.pt.2022.06.002). Trends in Parasitology. Cover art selected for this issue.  
 - **DOYLE SR**, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO (2022) [Population genomics of ancient and modern *Trichuris trichiura*](https://doi.org/10.1038/s41467-022-31487-x). Nature Communications
 - Gandasegui J, Onwuchekwa C, Krolewiecki AJ, **DOYLE SR**, Pullan RL, Enbiale W, Kepha S, Hatherell HA, van Lieshout L, Cambra-Pellejà M, Escola V, Muñoz J (2022) [Ivermectin and albendazole coadministration: opportunities for strongyloidiasis control](https://doi.org/10.1016/S1473-3099(22)00369-3). The Lancet Infectious Diseases
-- Laing R, **DOYLE SR**, McIntyre J, Maitland K, Morrison A, Bartley DJ, Kaplan R, Chaudhry U, Sargison N, Tait A, Cotton JA, Britton C, Devaney E (2021) [Transcriptomic analyses implicate neuronal plasticity and chloride homeostasis in ivermectin resistance and recovery in a parasitic nematode](https://doi.org/10.1371/journal.ppat.1010545). PLoS Pathogens
+- Laing R, **DOYLE SR**, McIntyre J, Maitland K, Morrison A, Bartley DJ, Kaplan R, Chaudhry U, Sargison N, Tait A, Cotton JA, Britton C, Devaney E (2022) [Transcriptomic analyses implicate neuronal plasticity and chloride homeostasis in ivermectin resistance and recovery in a parasitic nematode](https://doi.org/10.1371/journal.ppat.1010545). PLoS Pathogens
 - Krolewiecki A, Enbiale W, Gandasegui J, van Lieshout L, Kepha S,  Messa Junior A, Bengtson M, Gelaye W, Escola V, Martinez-Valladares M, Cambra-Pellejà M, Algorta J, Martí-Soler H, Fleitas P, Ballester MR, **DOYLE SR**,  Williams NA,  Legarda A, Mandomando I, Mwandawiro C, Muñoz J (2022) [An adaptive phase II/III safety and efficacy randomized controlled trial of single day or three-day fixed-dose albendazole-ivermectin co-formulation versus albendazole for the treatment of *Trichuris trichiura* and other STH infections. ALIVE trial protocol](https://doi.org/10.12688/gatesopenres.13615.1).[version 1; peer review: awaiting peer review]. Gates Open Research
 - Antonopoulos A, **DOYLE SR**, Bartley DJ, Morrison A, Kaplan R, Howell S, Neveu C, Busin V, Devaney E, Laing R (2022) [Allele specific PCR for a major marker of levamisole resistance in <i>Haemonchus contortus</i>](https://doi.org/10.1016/j.ijpddr.2022.08.001). Int. J Parasitol-DDR
 - Papaiakovou M, Littlewood TJ, **DOYLE SR**, Gasser R, Cantacessi C (2022) [Worms and bugs of the gut: the search for diagnostic signatures using barcoding, and metagenomics–metabolomics](https://doi.org/10.1186/s13071-022-05225-7). Parasites & Vectors
 - Cotton J, **DOYLE SR** (2022) [A genetic TRP down the channel to praziquantel resistance](https://www.sciencedirect.com/science/article/pii/S1471492222000368?dgcid=author). Trends in Parasitology
-- Vianney JV, Berger D, **DOYLE SR**, Sankaranarayanan G, Serubanja J, Nakawungu PK, Besigye F, Sanya R, Holroyd N, Allan F, Webb E, Elliott A, Berriman M, Cotton J (2022) [Genome-wide analysis of *Schistosoma mansoni* reveals population structure and praziquantel drug selection pressure within Ugandan hot-spot communities](https://doi.org/10.1101/2022.01.25.477652). PLoS NTD
+- Vianney JV, Berger D, **DOYLE SR**, Sankaranarayanan G, Serubanja J, Nakawungu PK, Besigye F, Sanya R, Holroyd N, Allan F, Webb E, Elliott A, Berriman M, Cotton J (2022) [Genome-wide analysis of *Schistosoma mansoni* reveals limited population structure and possible praziquantel drug selection pressure within Ugandan hot-spot communities](https://doi.org/10.1371/journal.pntd.0010188). PLoS NTD
 - Baltrusis P, **DOYLE SR**, Halvarsson P, Hoglund J (2022) [Genome-wide analysis of response to ivermectin treatment by a Swedish field population of *Haemonchus contortus*](https://doi.org/10.1016/j.ijpddr.2021.12.002). Int. J Parasitol-DDR 
 - Morrison AA, Chaudhry U, Andrews L, Melville L, **DOYLE SR**, Sargison ND, Bartley DJ (2022) [Phenotypic and genotypic analysis of benzimidazole resistance in reciprocal genetic crosses of *Haemonchus contortus*](https://doi.org/10.1016/j.ijpddr.2021.11.001). Int. J Parasitol-DDR 
 
@@ -187,8 +192,8 @@ Title: "Determining the Role of Mass Drug Administration in the Emergence of Ant
 Title: "Unravelling host-parasite interactions during chronic whipworm infection at single-cell resolution".   
 
 `2024`
-- **Cambridge-Africa Alborada Trust**. Role: Principal Investigator. Amount: £19.9k GBP / 1.5 yrs
-Title: "Genomic analysis of Strongyloides stercoralis seasonality: implications for diagnosis and control".  
+- **Cambridge-Africa Alborada Trust**. Role: Principal Investigator (with Prof. Wendemagegn Enbiale, Bahir Dar University, Ethiopia). Amount: £19.9k GBP / 1.5 yrs
+Title: "Genomic analysis of *Strongyloides stercoralis* seasonality: implications for diagnosis and control" (GASS).  
  
 `2023`
 - **EDCTP** . Role: Co-Investigator. Amount: €3,553,000 (€369,000 to SRD/WSI).  
@@ -231,21 +236,20 @@ Doyle, SR: “Recombination-mediated stable transgenesis of Caenorhabditis elega
 ## Mentorship (current lab, direct/indirect mentorship)  
 ### Current lab  
 `Postdoctoral Research Associates`    
-Mona Suleiman (2023-current) (Sanger Excellence Fellow)  
+Mona Suleiman (2023-current) (Sanger Excellence Fellow; Junior Research Fellow, St Edmund's College, Cambridge, 2025-; BBSRC FTMA placement, 2026)  
 Javier Gandasegui (2024-current)   
 Marina Papaiakovou (2026-current)   
 
 `PhD candidates - direct supervision/mentorship`  
-Enric Cata Socias, University of Cambridge (co-supervisor with Maria Duque-Correa) - (2025-current)
+Enric Cata Socias, University of Cambridge (co-supervisor with Maria Duque-Correa) - (2025-current)  
+Augusto Messa Jr, Centro de Investigação em Saúde de Manhiça (CISM), Mozambique (member of supervisory team) - (2025-current; final year)  
 Benedict Karani, University of Glasgow (co-supervisor with James Cotton, Roz Laing, Jennifer McIntyre, Fiona Kenyon) - (2023-current; due to submit 2027)    
 
 `Other - indirect supervision/mentorship`   
 Modupeh Betts (Postdoctoral Research Associate, University of Liverpool) (2025-current) 
-Augusto Messa Jr (PhD Candidate, CISM, Mozambique) (2025-current)   
 Robin Lioutaud (PhD Candidate, INRAE, Toulouse, France) (2024-current)   
 Omer Bay (Lecturer, Abdullah Gül University, Türkiye) (2024-current)   
 Jennifer McIntyre (Postdoctoral Research Associate, University of Glasgow) (2020-current)     
-Rose Powers (PhD candidate, University of Sydney, Australia) (2023-2025)    
 
 ### Previous mentorship  
 `Postdoctoral Research Associates` 
@@ -255,9 +259,10 @@ Sarah Buddenborg (2022-2025) - now Assistant Professor at McGill University, Can
 Marina Papaiakovou, University of Cambridge (co-supervisor with Cinzia Cantacessi) - (2022-2025) 
 Jennifer McIntyre, University of Glasgow (2020-2025)    
 Shannan Summers, London School of Hygiene and Tropical Medicine / Natural History Museum, London - (2023-2025)   
+Rose Power, University of Sydney, Australia (co-supervisor with Jan Šlapeta) - (2023-2025)   
+Duncan Berger, Wellcome Sanger Institute (co-supervisor)   
 
 `PhD candidates - indirect supervision`  
-Duncan Berger (Wellcome Sanger Institute)   
 Julia Rivero (Universidad de Sevilla, Spain) (2022) - 3-month stay at Sanger  
 Kirsty McCann (La Trobe University, Australia) (2015-2021)  
 Neha Sirwani (La Trobe University) (2013-2020)  
@@ -266,11 +271,21 @@ Sam Armoo (La Trobe University, Australia) (2012-2017)
 `Masters candidates`  
 Javier Gandasegui (Cardiff University) (2021) - Master's thesis summer project  
 
+`Interns and visiting researchers`  
+William Krohn and Beth Crellen (2026) - 8-week Churchill Summer Placement  
+Viktoria Bitsukova (2026) - 2-week lab visit  
+Annabelle O'Reilly (2025) - 5-week internship on zoo parasite metabarcoding (with Mona Suleiman)  
+Sam Dougan (2025) - 3-month BBSRC FTMA placement in Maria Duque-Correa's lab  
+Robin Lioutaud (INRAE, France) (2025) - 4-week research visit  
+
 
 
 
 ## Presentations  
 ### Departmental/Invited Talks   
+`2026`   
+- Crop Science Centre, University of Cambridge, UK
+
 `2025`   
 - Swiss Tropical And Public Health Institute, Switzerland
 
@@ -324,7 +339,7 @@ Javier Gandasegui (Cardiff University) (2021) - Master's thesis summer project
 ### Conference talks/posters
 `2026`     
 - TZR symposium, Berlin, Germany (invited speaker)
-- Royal Society meeting "Exploiting nematode genomes to illustrate parasite biology", Liverpool, UK (invited speaker)
+- Royal Society Theo Murphy meeting "[Exploiting nematode genomes to illuminate parasite biology](https://royalsociety.org/science-events-and-lectures/2026/03/nematode-genomes/)", Liverpool, UK, 23-24 March 2026 (invited speaker)
 - EMBO meeting "Evolving together: from genomics to biological interactions", Taiwan (invited speaker)   
 
 `2025`  
@@ -449,6 +464,8 @@ Isaac Newton Trust, ZonMw (the Netherlands Organisation for Health Research and 
 
 **Course Instructor, Helminth Bioinformatics**, Wellcome Trust Advanced Courses: Accra, Ghana (2019), Asia (online 2021; lead instructor), Thailand (2023; lead instructor), Montevideo, Uruguay (2025; lead instructor).  
 
+**Workshop Instructor, WORMS-SEA Bioinformatics Workshop**, Yogyakarta, Indonesia (2026).
+
 **Course Instructor, Pathogen Genomics MSc**, The London School of Hygiene & Tropical Medicine, London, UK: April/May 2018, 2019, April 2020, 2021 (remote online teaching), April 2022, 2023.
 
 
@@ -457,6 +474,6 @@ Isaac Newton Trust, ZonMw (the Netherlands Organisation for Health Research and 
 
 <!-- ### Footer
 
-Last updated: 7th February 2026 -->
+Last updated: 11th October 2026 -->
 
 
