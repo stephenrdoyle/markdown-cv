@@ -340,7 +340,6 @@ Robin Lioutaud (INRAE, France) (2025) - 4-week research visit
 `2026`     
 - TZR symposium, Berlin, Germany (invited speaker)
 - Royal Society Theo Murphy meeting "[Exploiting nematode genomes to illuminate parasite biology](https://royalsociety.org/science-events-and-lectures/2026/03/nematode-genomes/)", Liverpool, UK, 23-24 March 2026 (invited speaker)
-- EMBO meeting "Evolving together: from genomics to biological interactions", Taiwan (invited speaker)   
 
 `2025`  
 - World Association for the Advancement of Veterinary Parasitology (WAAVP), Curitiba, Brazil (Invited plenary speaker)
