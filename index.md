@@ -259,8 +259,8 @@ Sarah Buddenborg (2022-2025) - now Assistant Professor at McGill University, Can
 `PhD candidates - direct supervision`
 Marina Papaiakovou, University of Cambridge (co-supervisor with Cinzia Cantacessi) - (2022-2025) 
 Jennifer McIntyre, University of Glasgow (2020-2025)    
-Shannan Summers, London School of Hygiene and Tropical Medicine / Natural History Museum, London - (2023-2025)   
-Rose Power, University of Sydney, Australia (co-supervisor with Jan Šlapeta) - (2023-2025)   
+Shannan Summers, London School of Hygiene and Tropical Medicine / Natural History Museum, London - (2023-2025) - now Postdoctoral Research Associate, Liverpool School of Tropical Medicine, UK   
+Rose Power, University of Sydney, Australia (co-supervisor with Jan Šlapeta) - (2023-2025) - now Postdoctoral Researcher, Stockholm University, Sweden   
 Duncan Berger, Wellcome Sanger Institute (co-supervisor)   
 
 `PhD candidates - indirect supervision`  
