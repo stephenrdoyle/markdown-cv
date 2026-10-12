@@ -246,6 +246,7 @@ Augusto Messa Jr, Centro de Investigação em Saúde de Manhiça (CISM), Mozambi
 Benedict Karani, University of Glasgow (co-supervisor with James Cotton, Roz Laing, Jennifer McIntyre, Fiona Kenyon) - (2023-current; due to submit 2027)    
 
 `Other - indirect supervision/mentorship`   
+Agustin Baricalla (PhD Candidate, CONICET, Argentina) (2026-current)   
 Modupeh Betts (Postdoctoral Research Associate, University of Liverpool) (2025-current) 
 Robin Lioutaud (PhD Candidate, INRAE, Toulouse, France) (2024-current)   
 Omer Bay (Lecturer, Abdullah Gül University, Türkiye) (2024-current)   
